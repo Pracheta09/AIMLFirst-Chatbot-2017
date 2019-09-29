@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>NAME _ TEACHER _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TEACH</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS615</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS615 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS615 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 615</pattern>
+	<template>
+		<random>
+			<li>$Professor Supratik Chakraborty is teaching CS615. </li>
+			<li>$Professor Supratik Chakraborty will be teaching CS615. </li>
+			<li>$Instructor of CS615 is Professor Supratik Chakraborty. </li>
+			<li>$CS615 is running under instruction of Professor Supratik Chakraborty. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS615 _ WORTH</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS615 WORTH</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS615 _ CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS615 CREDITS</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS615</pattern>
+	<template><srai>CREDITS 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 615</pattern>
+	<template>
+		<random>
+			<li>$CS 615 is worth 6 credits. </li>
+			<li>$CS 615 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS615. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 SCOPE</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 OUTLINE</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS615</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 SURVEY</pattern>
+	<template><srai>SYLLABUS 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 615</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS615 is Reasoning about sequential programs:, Programs as (possibly infinite) state transition systems; specifying program correctness using pre- and post-conditions; partial and total correctness semantics; Hoare logic and its rules for a simple imperative sequential language; weakest pre-condition and strongest post-condition semantics; central importance of invariants in program verification., Brief introduction to lattices and the theory of abstract interpretation; some numerical abstract domains: intervals, difference bound matrices, octagons, polyhedra; computing abstract post-conditions and abstract loop invariants; refining abstractions and counterexample-guided abstraction refinement, Predicate abstraction and boolean programs; converting assertion to a location reachability problem; location reachability using predicate abstraction for simple programs and for programs with (possibly recursive) function calls; discovering predicates using counterexample-guided abstraction refinement, Program verification as a constraint solving problem; checking properties of bounded and unbounded executions of programs using constraint solving, Shape analysis: use of separation logic and three-valued logic, Reasoning about reactive systems:, Introduction to temporal logics: LTL and CTL; Kripke structures as models of reactive (hardware and software) systems; LTL and CTL model checking algorithms and some applications, properties. Computer-Aided Verification: Deductive and model-theoretic approach. Automatic verification of finite state systems. Case study of languages and systems like Z, B, spin, PVS, step.. </li>
+			<li>$Reasoning about sequential programs:, Programs as (possibly infinite) state transition systems; specifying program correctness using pre- and post-conditions; partial and total correctness semantics; Hoare logic and its rules for a simple imperative sequential language; weakest pre-condition and strongest post-condition semantics; central importance of invariants in program verification., Brief introduction to lattices and the theory of abstract interpretation; some numerical abstract domains: intervals, difference bound matrices, octagons, polyhedra; computing abstract post-conditions and abstract loop invariants; refining abstractions and counterexample-guided abstraction refinement, Predicate abstraction and boolean programs; converting assertion to a location reachability problem; location reachability using predicate abstraction for simple programs and for programs with (possibly recursive) function calls; discovering predicates using counterexample-guided abstraction refinement, Program verification as a constraint solving problem; checking properties of bounded and unbounded executions of programs using constraint solving, Shape analysis: use of separation logic and three-valued logic, Reasoning about reactive systems:, Introduction to temporal logics: LTL and CTL; Kripke structures as models of reactive (hardware and software) systems; LTL and CTL model checking algorithms and some applications, properties. Computer-Aided Verification: Deductive and model-theoretic approach. Automatic verification of finite state systems. Case study of languages and systems like Z, B, spin, PVS, step. is taught in CS615. </li>
+			<li>$Prof. Supratik Chakraborty will teach Reasoning about sequential programs:, Programs as (possibly infinite) state transition systems; specifying program correctness using pre- and post-conditions; partial and total correctness semantics; Hoare logic and its rules for a simple imperative sequential language; weakest pre-condition and strongest post-condition semantics; central importance of invariants in program verification., Brief introduction to lattices and the theory of abstract interpretation; some numerical abstract domains: intervals, difference bound matrices, octagons, polyhedra; computing abstract post-conditions and abstract loop invariants; refining abstractions and counterexample-guided abstraction refinement, Predicate abstraction and boolean programs; converting assertion to a location reachability problem; location reachability using predicate abstraction for simple programs and for programs with (possibly recursive) function calls; discovering predicates using counterexample-guided abstraction refinement, Program verification as a constraint solving problem; checking properties of bounded and unbounded executions of programs using constraint solving, Shape analysis: use of separation logic and three-valued logic, Reasoning about reactive systems:, Introduction to temporal logics: LTL and CTL; Kripke structures as models of reactive (hardware and software) systems; LTL and CTL model checking algorithms and some applications, properties. Computer-Aided Verification: Deductive and model-theoretic approach. Automatic verification of finite state systems. Case study of languages and systems like Z, B, spin, PVS, step. in CS615. </li>
+			<li>$Reasoning about sequential programs:, Programs as (possibly infinite) state transition systems; specifying program correctness using pre- and post-conditions; partial and total correctness semantics; Hoare logic and its rules for a simple imperative sequential language; weakest pre-condition and strongest post-condition semantics; central importance of invariants in program verification., Brief introduction to lattices and the theory of abstract interpretation; some numerical abstract domains: intervals, difference bound matrices, octagons, polyhedra; computing abstract post-conditions and abstract loop invariants; refining abstractions and counterexample-guided abstraction refinement, Predicate abstraction and boolean programs; converting assertion to a location reachability problem; location reachability using predicate abstraction for simple programs and for programs with (possibly recursive) function calls; discovering predicates using counterexample-guided abstraction refinement, Program verification as a constraint solving problem; checking properties of bounded and unbounded executions of programs using constraint solving, Shape analysis: use of separation logic and three-valued logic, Reasoning about reactive systems:, Introduction to temporal logics: LTL and CTL; Kripke structures as models of reactive (hardware and software) systems; LTL and CTL model checking algorithms and some applications, properties. Computer-Aided Verification: Deductive and model-theoretic approach. Automatic verification of finite state systems. Case study of languages and systems like Z, B, spin, PVS, step.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS615 _ TITLE</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS615 TITLE</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ NAME</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 NAME</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS615 _ NAME</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS615 NAME</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TITLE</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TITLE</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 COURSE NAME</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 COURSE TITLE</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS615</pattern>
+	<template><srai>TITLE 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 615</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS615 is Formal Specification and Verification of Programs. </li>
+			<li>$The course title of CS615 is Formal Specification and Verification of Programs. </li>
+			<li>$Course code CS615 is Formal Specification and Verification of Programs. </li>
+			<li>$CS615 is Formal Specification and Verification of Programs. </li>
+			<li>$Formal Specification and Verification of Programs. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS615</pattern>
+	<template><srai>STUDENTSTRENGTH 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 615</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS615. </li>
+			<li>$There are 0 students in Formal Specification and Verification of Programs. </li>
+			<li>$0 students are enrolled in CS615. </li>
+			<li>$0 students are enrolled in Formal Specification and Verification of Programs. </li>
+			<li>$0 students have signed up for CS615. </li>
+			<li>$0 students have signed up for Formal Specification and Verification of Programs. </li>
+			<li>$The student strength of CS615 is 0. </li>
+			<li>$The student strength of Formal Specification and Verification of Programs is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS615 _ LECTURE</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS615 LECTURE</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ VENUE</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 VENUE</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 CLASS RETURN</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ RETURN</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 RETURN</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS615 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS615 CLASS RETURN</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS615</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TIME SLOT</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS615 _ CLASS</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS615 CLASS</pattern>
+	<template><srai>VENUE 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 615</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS615. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS615. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS615. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS615. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS615. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS615. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS615. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS615. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS615</pattern>
+	<template><srai>GRADE_AP 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 615</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS615, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS615, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS615, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS615</pattern>
+	<template><srai>GRADE_AA 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 615</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS615, 2014. </li>
+			<li>$AA grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got AA grade in CS615, 2014. </li>
+			<li>$0 students got AA grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS615</pattern>
+	<template><srai>GRADE_AB 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 615</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS615, 2014. </li>
+			<li>$AB grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got AB grade in CS615, 2014. </li>
+			<li>$0 students got AB grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS615</pattern>
+	<template><srai>GRADE_BB 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 615</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS615, 2014. </li>
+			<li>$BB grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got BB grade in CS615, 2014. </li>
+			<li>$0 students got BB grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS615</pattern>
+	<template><srai>GRADE_BC 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 615</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS615, 2014. </li>
+			<li>$BC grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got BC grade in CS615, 2014. </li>
+			<li>$0 students got BC grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS615</pattern>
+	<template><srai>GRADE_CC 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 615</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS615, 2014. </li>
+			<li>$CC grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got CC grade in CS615, 2014. </li>
+			<li>$0 students got CC grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS615</pattern>
+	<template><srai>GRADE_CD 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 615</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS615, 2014. </li>
+			<li>$CD grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got CD grade in CS615, 2014. </li>
+			<li>$0 students got CD grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_DD 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 615</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS615, 2014. </li>
+			<li>$DD grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got DD grade in CS615, 2014. </li>
+			<li>$0 students got DD grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_DX 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 615</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS615, 2014. </li>
+			<li>$DX grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got DX grade in CS615, 2014. </li>
+			<li>$0 students got DX grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS615</pattern>
+	<template><srai>GRADE_FR 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 615</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS615, 2014. </li>
+			<li>$FR grade was given to 0 students in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0 students got FR grade in CS615, 2014. </li>
+			<li>$0 students got FR grade in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS615, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Formal Specification and Verification of Programs, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS615</pattern>
+	<template><srai>GRADES 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 615</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS615, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Formal Specification and Verification of Programs, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS615 _ BOOK</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 BOOK</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ MENTION</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 MENTION</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS615</pattern>
+	<template><srai>REFERENCES 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 615</pattern>
+	<template>
+		<random>
+			<li>$The references are Logic in Computer Science: Modeling and Reasoning about Systems, M. Huth and M. Ryan, Cambridge University Press, 2004, Chapter 15, Methods and Logics for Proving Programs by P. Cousot, in Handbook of Theoretical Computer Science, Vol B (Formal Models and Semantics), edited by Jan Van Leeuwen, The MIT Press, 1994, Research papers and survey articles to be announced in class for CS615. </li>
+			<li>$The references are Logic in Computer Science: Modeling and Reasoning about Systems, M. Huth and M. Ryan, Cambridge University Press, 2004, Chapter 15, Methods and Logics for Proving Programs by P. Cousot, in Handbook of Theoretical Computer Science, Vol B (Formal Models and Semantics), edited by Jan Van Leeuwen, The MIT Press, 1994, Research papers and survey articles to be announced in class for Formal Specification and Verification of Programs. </li>
+			<li>$References according to Professor Supratik Chakraborty are Logic in Computer Science: Modeling and Reasoning about Systems, M. Huth and M. Ryan, Cambridge University Press, 2004, Chapter 15, Methods and Logics for Proving Programs by P. Cousot, in Handbook of Theoretical Computer Science, Vol B (Formal Models and Semantics), edited by Jan Van Leeuwen, The MIT Press, 1994, Research papers and survey articles to be announced in class for CS615. </li>
+			<li>$Logic in Computer Science: Modeling and Reasoning about Systems, M. Huth and M. Ryan, Cambridge University Press, 2004, Chapter 15, Methods and Logics for Proving Programs by P. Cousot, in Handbook of Theoretical Computer Science, Vol B (Formal Models and Semantics), edited by Jan Van Leeuwen, The MIT Press, 1994, Research papers and survey articles to be announced in class. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS615</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS615</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS615</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS615</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TYPE</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TYPE</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 LAB THEORY</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS615</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS615</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS615 _ COURSE</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS615 COURSE</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 THEORY LAB</pattern>
+	<template><srai>TYPE 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 615</pattern>
+	<template>
+		<random>
+			<li>$CS615 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS615 _ COURSE</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS615 COURSE</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS615 _ RETURN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS615 RETURN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS615 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS615 GET STRETCH</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ DURATION</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 DURATION</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ LENGTH</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 LENGTH</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS615 _ RUN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS615 RUN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ SPAN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 SPAN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS615</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS615 _ RUN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS615 RUN</pattern>
+	<template><srai>DURATION 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 615</pattern>
+	<template>
+		<random>
+			<li>$CS615 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS615 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ URL</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 URL</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS615</pattern>
+	<template><srai>HOMEPAGE 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 615</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~supratik/courses/cs615/ for more information on CS615</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~supratik/courses/cs615/ for more information on Formal Specification and Verification of Programs</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~supratik/courses/cs615/. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~supratik/courses/cs615/. </li>
+			<li>$http://www.cse.iitb.ac.in/~supratik/courses/cs615/. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>CS615 PREREQ</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS615</pattern>
+	<template><srai>PREREQUISITES 615</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 615</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: NIL</li>
+			<li>$You should have completed NIL to register for CS615</li>
+			<li>$You should have completed NIL to register for Formal Specification and Verification of Programs</li>
+			<li>$NIL. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

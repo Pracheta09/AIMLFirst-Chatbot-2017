@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>CS721 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TEACH</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS721</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS721 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS721 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 721</pattern>
+	<template>
+		<random>
+			<li>$Professor Nutan Limaye is teaching CS721. </li>
+			<li>$Professor Nutan Limaye will be teaching CS721. </li>
+			<li>$Instructor of CS721 is Professor Nutan Limaye. </li>
+			<li>$CS721 is running under instruction of Professor Nutan Limaye. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS721 _ CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS721 CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS721 _ WORTH</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS721 WORTH</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS721</pattern>
+	<template><srai>CREDITS 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 721</pattern>
+	<template>
+		<random>
+			<li>$CS 721 is worth 6 credits. </li>
+			<li>$CS 721 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS721. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS721 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 OUTLINE</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 SURVEY</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 SCOPE</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS721</pattern>
+	<template><srai>SYLLABUS 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 721</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS721 is N/A. </li>
+			<li>$N/A is taught in CS721. </li>
+			<li>$Prof. Nutan Limaye will teach N/A in CS721. </li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS721 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 COURSE TITLE</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS721 _ NAME</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS721 NAME</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS721 _ TITLE</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS721 TITLE</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ NAME</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 NAME</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TITLE</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TITLE</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS721</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 COURSE NAME</pattern>
+	<template><srai>TITLE 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 721</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS721 is Introduction to Computational Complexity. </li>
+			<li>$The course title of CS721 is Introduction to Computational Complexity. </li>
+			<li>$Course code CS721 is Introduction to Computational Complexity. </li>
+			<li>$CS721 is Introduction to Computational Complexity. </li>
+			<li>$Introduction to Computational Complexity. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS721</pattern>
+	<template><srai>STUDENTSTRENGTH 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 721</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS721. </li>
+			<li>$There are 0 students in Introduction to Computational Complexity. </li>
+			<li>$0 students are enrolled in CS721. </li>
+			<li>$0 students are enrolled in Introduction to Computational Complexity. </li>
+			<li>$0 students have signed up for CS721. </li>
+			<li>$0 students have signed up for Introduction to Computational Complexity. </li>
+			<li>$The student strength of CS721 is 0. </li>
+			<li>$The student strength of Introduction to Computational Complexity is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS721 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 CLASS RETURN</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ RETURN</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 RETURN</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS721 _ CLASS</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS721 CLASS</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ VENUE</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 VENUE</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS721 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS721 CLASS RETURN</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS721 _ LECTURE</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS721 LECTURE</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS721</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TIME SLOT</pattern>
+	<template><srai>VENUE 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 721</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS721. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS721. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS721. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS721. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS721. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS721. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS721. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS721. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AP _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS721</pattern>
+	<template><srai>GRADE_AP 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 721</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS721, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS721, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS721, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS721</pattern>
+	<template><srai>GRADE_AA 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 721</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS721, 2014. </li>
+			<li>$AA grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got AA grade in CS721, 2014. </li>
+			<li>$0 students got AA grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS721</pattern>
+	<template><srai>GRADE_AB 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 721</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS721, 2014. </li>
+			<li>$AB grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got AB grade in CS721, 2014. </li>
+			<li>$0 students got AB grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS721</pattern>
+	<template><srai>GRADE_BB 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 721</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS721, 2014. </li>
+			<li>$BB grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got BB grade in CS721, 2014. </li>
+			<li>$0 students got BB grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS721</pattern>
+	<template><srai>GRADE_BC 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 721</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS721, 2014. </li>
+			<li>$BC grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got BC grade in CS721, 2014. </li>
+			<li>$0 students got BC grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS721</pattern>
+	<template><srai>GRADE_CC 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 721</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS721, 2014. </li>
+			<li>$CC grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got CC grade in CS721, 2014. </li>
+			<li>$0 students got CC grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS721</pattern>
+	<template><srai>GRADE_CD 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 721</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS721, 2014. </li>
+			<li>$CD grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got CD grade in CS721, 2014. </li>
+			<li>$0 students got CD grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS721</pattern>
+	<template><srai>GRADE_DD 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 721</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS721, 2014. </li>
+			<li>$DD grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got DD grade in CS721, 2014. </li>
+			<li>$0 students got DD grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>DX _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS721</pattern>
+	<template><srai>GRADE_DX 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 721</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS721, 2014. </li>
+			<li>$DX grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got DX grade in CS721, 2014. </li>
+			<li>$0 students got DX grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS721</pattern>
+	<template><srai>GRADE_FR 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 721</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS721, 2014. </li>
+			<li>$FR grade was given to 0 students in Introduction to Computational Complexity, 2014. </li>
+			<li>$0 students got FR grade in CS721, 2014. </li>
+			<li>$0 students got FR grade in Introduction to Computational Complexity, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS721, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Introduction to Computational Complexity, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS721</pattern>
+	<template><srai>GRADES 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 721</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS721, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Introduction to Computational Complexity, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ MENTION</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 MENTION</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS721</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ BOOK</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 BOOK</pattern>
+	<template><srai>REFERENCES 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 721</pattern>
+	<template>
+		<random>
+			<li>$The references are N/A for CS721. </li>
+			<li>$The references are N/A for Introduction to Computational Complexity. </li>
+			<li>$References according to Professor Nutan Limaye are N/A for CS721. </li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS721 _ COURSE</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS721 COURSE</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TYPE</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TYPE</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 LAB THEORY</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS721</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS721</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS721</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS721</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 THEORY LAB</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS721</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS721</pattern>
+	<template><srai>TYPE 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 721</pattern>
+	<template>
+		<random>
+			<li>$CS721 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS721 _ DURATION</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 DURATION</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS721 _ RUN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS721 RUN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ LENGTH</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 LENGTH</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS721 _ RUN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS721 RUN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS721 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS721 GET STRETCH</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS721 _ COURSE</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS721 COURSE</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS721 _ RETURN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS721 RETURN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ SPAN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 SPAN</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS721</pattern>
+	<template><srai>DURATION 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 721</pattern>
+	<template>
+		<random>
+			<li>$CS721 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS721 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS721 _ URL</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 URL</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS721</pattern>
+	<template><srai>HOMEPAGE 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 721</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://moodle.iitb.ac.in/course for more information on CS721</li>
+			<li>$Please visit http://moodle.iitb.ac.in/course for more information on Introduction to Computational Complexity</li>
+			<li>$The course page is http://moodle.iitb.ac.in/course. </li>
+			<li>$Course Website is http://moodle.iitb.ac.in/course. </li>
+			<li>$http://moodle.iitb.ac.in/course. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS721 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 PREREQ</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS721</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<category>
+	<pattern>CS721 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 721</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 721</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS721</li>
+			<li>$You should have completed N/A to register for Introduction to Computational Complexity</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

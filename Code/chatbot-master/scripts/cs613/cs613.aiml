@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>INSTRUCT _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TEACH</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS613 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS613 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS613</pattern>
+	<template><srai>INSTRUCTOR 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 613</pattern>
+	<template>
+		<random>
+			<li>$Professor Sanyal Amitabha is teaching CS613. </li>
+			<li>$Professor Sanyal Amitabha will be teaching CS613. </li>
+			<li>$Instructor of CS613 is Professor Sanyal Amitabha. </li>
+			<li>$CS613 is running under instruction of Professor Sanyal Amitabha. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS613 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS613 _ WORTH</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS613 WORTH</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS613 _ CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS613 CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 CREDITS</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS613</pattern>
+	<template><srai>CREDITS 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 613</pattern>
+	<template>
+		<random>
+			<li>$CS 613 is worth 6 credits. </li>
+			<li>$CS 613 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS613. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 OUTLINE</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 SURVEY</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 SCOPE</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS613</pattern>
+	<template><srai>SYLLABUS 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 613</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS613 is Illustration of Basic concepts in FP using Haskell: Functions as first class objects, Laziness, Datatypes and pattern matching, Types, Classes and overloading, Side-effect free IO. Introduction to Lambda Calculus: Syntax of Lambda terms, Alpha, beta and delta conversions, Normal forms, applicative order and normal order reductions, Church-Rosser theorems, Y combinator and recursion. , Type Inference: Hindley-Milner type checking algorithm and its extension to handle type classes. Implementation of FP Languages: Supercombinators and Lambda Lifting, Graph reduction, Three instruction machine (TIM). Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads. Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads.. </li>
+			<li>$Illustration of Basic concepts in FP using Haskell: Functions as first class objects, Laziness, Datatypes and pattern matching, Types, Classes and overloading, Side-effect free IO. Introduction to Lambda Calculus: Syntax of Lambda terms, Alpha, beta and delta conversions, Normal forms, applicative order and normal order reductions, Church-Rosser theorems, Y combinator and recursion. , Type Inference: Hindley-Milner type checking algorithm and its extension to handle type classes. Implementation of FP Languages: Supercombinators and Lambda Lifting, Graph reduction, Three instruction machine (TIM). Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads. Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads. is taught in CS613. </li>
+			<li>$Prof. Sanyal Amitabha will teach Illustration of Basic concepts in FP using Haskell: Functions as first class objects, Laziness, Datatypes and pattern matching, Types, Classes and overloading, Side-effect free IO. Introduction to Lambda Calculus: Syntax of Lambda terms, Alpha, beta and delta conversions, Normal forms, applicative order and normal order reductions, Church-Rosser theorems, Y combinator and recursion. , Type Inference: Hindley-Milner type checking algorithm and its extension to handle type classes. Implementation of FP Languages: Supercombinators and Lambda Lifting, Graph reduction, Three instruction machine (TIM). Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads. Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads. in CS613. </li>
+			<li>$Illustration of Basic concepts in FP using Haskell: Functions as first class objects, Laziness, Datatypes and pattern matching, Types, Classes and overloading, Side-effect free IO. Introduction to Lambda Calculus: Syntax of Lambda terms, Alpha, beta and delta conversions, Normal forms, applicative order and normal order reductions, Church-Rosser theorems, Y combinator and recursion. , Type Inference: Hindley-Milner type checking algorithm and its extension to handle type classes. Implementation of FP Languages: Supercombinators and Lambda Lifting, Graph reduction, Three instruction machine (TIM). Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads. Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS613 _ TITLE</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TITLE</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS613 _ TITLE</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS613 TITLE</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 COURSE TITLE</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS613 _ NAME</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS613 NAME</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ NAME</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 NAME</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 COURSE NAME</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS613</pattern>
+	<template><srai>TITLE 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 613</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS613 is Design , Implementation of Functional Programming. </li>
+			<li>$The course title of CS613 is Design , Implementation of Functional Programming. </li>
+			<li>$Course code CS613 is Design , Implementation of Functional Programming. </li>
+			<li>$CS613 is Design , Implementation of Functional Programming. </li>
+			<li>$Design , Implementation of Functional Programming. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS613</pattern>
+	<template><srai>STUDENTSTRENGTH 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 613</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS613. </li>
+			<li>$There are 0 students in Design , Implementation of Functional Programming. </li>
+			<li>$0 students are enrolled in CS613. </li>
+			<li>$0 students are enrolled in Design , Implementation of Functional Programming. </li>
+			<li>$0 students have signed up for CS613. </li>
+			<li>$0 students have signed up for Design , Implementation of Functional Programming. </li>
+			<li>$The student strength of CS613 is 0. </li>
+			<li>$The student strength of Design , Implementation of Functional Programming is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS613 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TIME SLOT</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ RETURN</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 RETURN</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS613 _ LECTURE</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS613 LECTURE</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS613 _ CLASS</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS613 CLASS</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ VENUE</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 VENUE</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS613</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS613 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS613 CLASS RETURN</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 CLASS RETURN</pattern>
+	<template><srai>VENUE 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 613</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS613. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS613. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS613. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS613. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS613. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS613. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS613. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS613. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS613</pattern>
+	<template><srai>GRADE_AP 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 613</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS613, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS613, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS613, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS613</pattern>
+	<template><srai>GRADE_AA 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 613</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS613, 2014. </li>
+			<li>$AA grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got AA grade in CS613, 2014. </li>
+			<li>$0 students got AA grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS613</pattern>
+	<template><srai>GRADE_AB 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 613</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS613, 2014. </li>
+			<li>$AB grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got AB grade in CS613, 2014. </li>
+			<li>$0 students got AB grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS613</pattern>
+	<template><srai>GRADE_BB 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 613</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS613, 2014. </li>
+			<li>$BB grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got BB grade in CS613, 2014. </li>
+			<li>$0 students got BB grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BC _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS613</pattern>
+	<template><srai>GRADE_BC 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 613</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS613, 2014. </li>
+			<li>$BC grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got BC grade in CS613, 2014. </li>
+			<li>$0 students got BC grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS613</pattern>
+	<template><srai>GRADE_CC 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 613</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS613, 2014. </li>
+			<li>$CC grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got CC grade in CS613, 2014. </li>
+			<li>$0 students got CC grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS613</pattern>
+	<template><srai>GRADE_CD 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 613</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS613, 2014. </li>
+			<li>$CD grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got CD grade in CS613, 2014. </li>
+			<li>$0 students got CD grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>DD _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS613</pattern>
+	<template><srai>GRADE_DD 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 613</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS613, 2014. </li>
+			<li>$DD grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got DD grade in CS613, 2014. </li>
+			<li>$0 students got DD grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS613</pattern>
+	<template><srai>GRADE_DX 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 613</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS613, 2014. </li>
+			<li>$DX grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got DX grade in CS613, 2014. </li>
+			<li>$0 students got DX grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS613</pattern>
+	<template><srai>GRADE_FR 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 613</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS613, 2014. </li>
+			<li>$FR grade was given to 0 students in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0 students got FR grade in CS613, 2014. </li>
+			<li>$0 students got FR grade in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS613, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Design , Implementation of Functional Programming, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS613</pattern>
+	<template><srai>GRADES 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 613</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS613, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Design , Implementation of Functional Programming, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS613</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ BOOK</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 BOOK</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ MENTION</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 MENTION</pattern>
+	<template><srai>REFERENCES 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 613</pattern>
+	<template>
+		<random>
+			<li>$The references are P. Hudak, S. Peyton Jones and P. Wadler (eds), Report on the Programming Language Haskell, A Non-strict Purely Functional Language (v 1.2), ACM SIGPLAN Notices, 21(12):37-79, December 1986. , P. Hudak and J. Fasel. A Gentle Introduction to Haskell. ACM SIGPLAN Notices, 21(12):37-79, December 1986. , R. Bird and P. Wadler. Introduction to Functional Programming, Prentice Hall, New York, 1988. , J. R. Hindley and J. P. Seldin. Introduction to Lambda Calculus and Combinators. Cambridge University Press, 1984. , S. Peyton Jones. The Implementation of Functional Programming languages, Prentice Hall, New York, 1987. , G. Argo, Improving the Three Instruction Machine, Procs. of FPCA, ACM Press, 1989. for CS613. </li>
+			<li>$The references are P. Hudak, S. Peyton Jones and P. Wadler (eds), Report on the Programming Language Haskell, A Non-strict Purely Functional Language (v 1.2), ACM SIGPLAN Notices, 21(12):37-79, December 1986. , P. Hudak and J. Fasel. A Gentle Introduction to Haskell. ACM SIGPLAN Notices, 21(12):37-79, December 1986. , R. Bird and P. Wadler. Introduction to Functional Programming, Prentice Hall, New York, 1988. , J. R. Hindley and J. P. Seldin. Introduction to Lambda Calculus and Combinators. Cambridge University Press, 1984. , S. Peyton Jones. The Implementation of Functional Programming languages, Prentice Hall, New York, 1987. , G. Argo, Improving the Three Instruction Machine, Procs. of FPCA, ACM Press, 1989. for Design , Implementation of Functional Programming. </li>
+			<li>$References according to Professor Sanyal Amitabha are P. Hudak, S. Peyton Jones and P. Wadler (eds), Report on the Programming Language Haskell, A Non-strict Purely Functional Language (v 1.2), ACM SIGPLAN Notices, 21(12):37-79, December 1986. , P. Hudak and J. Fasel. A Gentle Introduction to Haskell. ACM SIGPLAN Notices, 21(12):37-79, December 1986. , R. Bird and P. Wadler. Introduction to Functional Programming, Prentice Hall, New York, 1988. , J. R. Hindley and J. P. Seldin. Introduction to Lambda Calculus and Combinators. Cambridge University Press, 1984. , S. Peyton Jones. The Implementation of Functional Programming languages, Prentice Hall, New York, 1987. , G. Argo, Improving the Three Instruction Machine, Procs. of FPCA, ACM Press, 1989. for CS613. </li>
+			<li>$P. Hudak, S. Peyton Jones and P. Wadler (eds), Report on the Programming Language Haskell, A Non-strict Purely Functional Language (v 1.2), ACM SIGPLAN Notices, 21(12):37-79, December 1986. , P. Hudak and J. Fasel. A Gentle Introduction to Haskell. ACM SIGPLAN Notices, 21(12):37-79, December 1986. , R. Bird and P. Wadler. Introduction to Functional Programming, Prentice Hall, New York, 1988. , J. R. Hindley and J. P. Seldin. Introduction to Lambda Calculus and Combinators. Cambridge University Press, 1984. , S. Peyton Jones. The Implementation of Functional Programming languages, Prentice Hall, New York, 1987. , G. Argo, Improving the Three Instruction Machine, Procs. of FPCA, ACM Press, 1989.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS613 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 LAB THEORY</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TYPE</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TYPE</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS613 _ COURSE</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS613 COURSE</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS613</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS613</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 THEORY LAB</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS613</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS613</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS613</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS613</pattern>
+	<template><srai>TYPE 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 613</pattern>
+	<template>
+		<random>
+			<li>$CS613 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS613 _ RUN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS613 RUN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ LENGTH</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 LENGTH</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ SPAN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 SPAN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS613 _ COURSE</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS613 COURSE</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ DURATION</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 DURATION</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS613 _ RUN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS613 RUN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS613 _ RETURN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS613 RETURN</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS613 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS613 GET STRETCH</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS613</pattern>
+	<template><srai>DURATION 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 613</pattern>
+	<template>
+		<random>
+			<li>$CS613 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS613 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ URL</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 URL</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS613</pattern>
+	<template><srai>HOMEPAGE 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 613</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~as/fpcourse/fpcourse.html for more information on CS613</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~as/fpcourse/fpcourse.html for more information on Design , Implementation of Functional Programming</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~as/fpcourse/fpcourse.html. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~as/fpcourse/fpcourse.html. </li>
+			<li>$http://www.cse.iitb.ac.in/~as/fpcourse/fpcourse.html. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>CS613 PREREQ</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS613</pattern>
+	<template><srai>PREREQUISITES 613</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 613</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: NIL</li>
+			<li>$You should have completed NIL to register for CS613</li>
+			<li>$You should have completed NIL to register for Design , Implementation of Functional Programming</li>
+			<li>$NIL. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

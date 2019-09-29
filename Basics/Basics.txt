@@ -1,0 +1,67 @@
+#lexicon--words and meanings
+#corporas--body of text
+#PanLex database - translation
+#stop words..corpus
+	--useless words
+	--using stopwords from nltk.corpus..lists all stopwords
+#Stemming..stem
+	--root of the word...Ex..ride,riding,rides-->ride.
+	 --for reducing redudant..like normalization
+	 --PorterStemmer
+	 
+#Part of Speech Tagging..corpus s train_data
+   PunktSentenceTokenizer..tokenize
+	--PunktSentenceTokenizer is the abstract class for the default sentence tokenizer, i.e. sent_tokenize(), provided in NLTK. 
+	sent_tokenize() uses pre trained model..hence we can do:sent_tokenize(german_text, language='german')
+	nltk.help.upenn_tagset()--for list of pos tags
+#Chunking 
+	process by which we group various words together by their part of speech tags. 
+        --RegexpParser
+	--generally identifies noun phrases
+#Chinking
+	--The chunk that you remove from your chunk is your chink.
+	--usingg }{ in re
+#Named Entity Recognition
+	--The idea is to have the machine immediately be able to pull out "entities" like people, places, things, locations, monetary figures, and more.
+	--There are two major options with NLTK's named entity recognition: 
+		either recognize all named entities  (binary=true)
+		recognize named entities as their respective type, like people, places, locations, etc. (binary=false)
+	--using nltk.ne_chunk(tagged,binary=)
+#Lemmatizing..stem
+	--similar to stemming.. lemmas are actual words.stemming can often create non-existent words
+	--using WordNetLemmatizer
+	--by default part of speech="noun"
+	--we could end up with a diffrent word but it is synonym or root word of it
+#Wordnet..corpus
+	--WordNet is a lexical database for the English language
+	--Synonym...syn=wordnet.synset()
+	--Antonym....wordnet.syn[0].lemmas(0).antonyms()[0].name()
+
+Word-->multiple Synset
+every synset element has mutiple lemmas
+Every lemma element has a definition,example and multiple antonyms
+	
+	--to compare the similarity of two words and their tenses,
+        by incorporating the Wu and Palmer method for semantic related-ness.
+	w1.wup_similarity(w2)
+n-noun
+v-verb
+r-adverb
+s/a-adj //check
+
+#TextClassification
+
+	1.Dataset--->document of words(features)(raw data)
+	  Randomize for train and test 
+	  all_words go through nltk.FreqDist(all_words)  
+        ..we can now have most common words..how many times a particular word appears
+
+	2.Words-->Features(training set)
+	3.Algorithm
+		Bayesian Naive Classifier:
+		Posterior prob=prior_prob *likelihood 
+	4.Pickle
+For better algo we have Scikit learn
+Multiple algo
+Voting
+Bias

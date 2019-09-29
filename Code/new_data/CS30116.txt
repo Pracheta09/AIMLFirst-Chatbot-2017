@@ -1,0 +1,39 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('CS30116.aiml','w')
+
+COURSECODE = "30116"
+PROFESSOR = "Vikas Chauhan"
+CREDITS = "3"
+SYLLABUS = "1. Estimate reliability issues based on error control, flow control and pipelining by
+using bandwidth, latency, throughput and efficiency.
+2. Design mechanisms to demonstrate LAN behavior utilizing network architecture,
+protocols, and network components 
+3. Analyze data flow between peer to peer in an IP network using Application,
+Transport and Network Layer Protocols.
+4. Illustrate applications of Computer Network capabilities, selection and usage for
+various sectors of user community.
+5. Demonstrate sustainable engineering practice indicating the scientific purpose and
+utility of communication frameworks and standards.
+6. Develop Client-Server architectures and prototypes by the means of correct
+standards and technology."
+TITLE = "Computer Network"
+STUDENTSTRENGTH = "70"
+VENUE = "N/A"
+VENUE1 = "N/A"
+TIMESLOT = "N/A"
+REFERENCES = "Text Books
+1. “Computer Networks”, by Tanenbaum A. S., Pearson Education , 2008, ISBN-978-81-
+7758-165-2, 4th Edition,
+2. “Computer Networking- A Top-Down Approach”, by James F. Kurose and Keith W
+Ross, Person Education, ISBN- 978-81-317-9054-0, 5th Edition.
+Reference Books
+1. “Data Communications and Networking”, by Forouzan B. A, Tata McGraw-Hill
+Publications, 2006, ISBN-0-07-063414-9, 4th edition.
+2. “Communication Networks- Fundamental Concepts and Key Architectures”, by LeonGarcia-Wadjaja,
+Tata McGraw-Hill Publications, ISBN-978-0072463521."
+TYPE = "Theory"
+DURATION = "Full Semester"
+HOMEPAGE = "http://www.vit.edu/Computer/images/Syllabus/TY__compa14.PDF"
+PREREQUISITES = " Data Communication."
+#-----------------------------------------------------------------------------------

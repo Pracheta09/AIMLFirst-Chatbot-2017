@@ -1,0 +1,29 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('CS31113.aiml','w')
+
+COURSECODE = "30105"
+PROFESSOR = "Shubhada Deshmukh"
+CREDITS = "3"
+SYLLABUS = "1. Study Operating Modes of Advanced Microprocessors.
+2. Study Application and Development of Microprocessor Components
+3. Use advanced Tools for Program implementations
+4. Develop Effective Engineering Solutions to solve Real World Problems
+5. Utilize the Structures to effectively solve Computing Problems in Teams
+6. Design Effective Automation Solutions using Advanced Microprocessors"
+TITLE = "Microprocessors and Microcontroller"
+STUDENTSTRENGTH = "70"
+VENUE = "N/A"
+VENUE1 = "N/A"
+TIMESLOT = "N/A"
+REFERENCES = "Text Books
+1. Antonakos J., "The Pentium Microprocessor", Pearson Education, 2004, 2nd Edition.
+2. Deshmukh A., "Microcontrollers - Theory and Applications", Tata McGraw-Hill, 2004.
+Reference Books
+1. ARM data Sheet.
+2. Intel data Sheet."
+TYPE = "Theory"
+DURATION = "Full Semester"
+HOMEPAGE = "http://www.vit.edu/Computer/images/Syllabus/TY__compa14.PDF"
+PREREQUISITES = "  Microprocessors and Interfacing."
+#-----------------------------------------------------------------------------------

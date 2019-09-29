@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TEACH</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS663 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS663 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS663</pattern>
+	<template><srai>INSTRUCTOR 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 663</pattern>
+	<template>
+		<random>
+			<li>$Professor Suyash Awate / Ajit Rajwade is teaching CS663. </li>
+			<li>$Professor Suyash Awate / Ajit Rajwade will be teaching CS663. </li>
+			<li>$Instructor of CS663 is Professor Suyash Awate / Ajit Rajwade. </li>
+			<li>$CS663 is running under instruction of Professor Suyash Awate / Ajit Rajwade. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS663</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS663 _ CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS663 CREDITS</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS663 _ WORTH</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS663 WORTH</pattern>
+	<template><srai>CREDITS 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 663</pattern>
+	<template>
+		<random>
+			<li>$CS 663 is worth 6 credits. </li>
+			<li>$CS 663 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS663. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 SURVEY</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 OUTLINE</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 SCOPE</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS663</pattern>
+	<template><srai>SYLLABUS 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 663</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS663 is *Image enchancement: histogram equalization and specification, contrast modification, neighborhood filtering, image smoothing and image sharpening., *Frequency domain processing: Sampling theorem, Fourier transforms and their properties, applications in image filtering, *Edge detection, * Principal components analysis: applications in face recognition [eigenfaces], and denoising (later), * Image restoration: denoising, deblurring, * Image segmentation: region-based methods, template matching, Hough transform, Mean shift, active contours (snakes), * Color models, filtering of color images, * Image compression: JPEG, wavelet representation for images, * Tomography, radon Transform, projection theorem, image reconstruction from back-projections, * Statistics of natural images (time permitting), Morphological image processing (time permitting), Sparse representations and non-local similarity (time permitting), introduction to compressive sensing (time, permitting). </li>
+			<li>$*Image enchancement: histogram equalization and specification, contrast modification, neighborhood filtering, image smoothing and image sharpening., *Frequency domain processing: Sampling theorem, Fourier transforms and their properties, applications in image filtering, *Edge detection, * Principal components analysis: applications in face recognition [eigenfaces], and denoising (later), * Image restoration: denoising, deblurring, * Image segmentation: region-based methods, template matching, Hough transform, Mean shift, active contours (snakes), * Color models, filtering of color images, * Image compression: JPEG, wavelet representation for images, * Tomography, radon Transform, projection theorem, image reconstruction from back-projections, * Statistics of natural images (time permitting), Morphological image processing (time permitting), Sparse representations and non-local similarity (time permitting), introduction to compressive sensing (time, permitting) is taught in CS663. </li>
+			<li>$Prof. Suyash Awate / Ajit Rajwade will teach *Image enchancement: histogram equalization and specification, contrast modification, neighborhood filtering, image smoothing and image sharpening., *Frequency domain processing: Sampling theorem, Fourier transforms and their properties, applications in image filtering, *Edge detection, * Principal components analysis: applications in face recognition [eigenfaces], and denoising (later), * Image restoration: denoising, deblurring, * Image segmentation: region-based methods, template matching, Hough transform, Mean shift, active contours (snakes), * Color models, filtering of color images, * Image compression: JPEG, wavelet representation for images, * Tomography, radon Transform, projection theorem, image reconstruction from back-projections, * Statistics of natural images (time permitting), Morphological image processing (time permitting), Sparse representations and non-local similarity (time permitting), introduction to compressive sensing (time, permitting) in CS663. </li>
+			<li>$*Image enchancement: histogram equalization and specification, contrast modification, neighborhood filtering, image smoothing and image sharpening., *Frequency domain processing: Sampling theorem, Fourier transforms and their properties, applications in image filtering, *Edge detection, * Principal components analysis: applications in face recognition [eigenfaces], and denoising (later), * Image restoration: denoising, deblurring, * Image segmentation: region-based methods, template matching, Hough transform, Mean shift, active contours (snakes), * Color models, filtering of color images, * Image compression: JPEG, wavelet representation for images, * Tomography, radon Transform, projection theorem, image reconstruction from back-projections, * Statistics of natural images (time permitting), Morphological image processing (time permitting), Sparse representations and non-local similarity (time permitting), introduction to compressive sensing (time, permitting). </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS663 _ TITLE</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS663 TITLE</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TITLE</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TITLE</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 COURSE NAME</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ NAME</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 NAME</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS663 _ NAME</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS663 NAME</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS663</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 COURSE TITLE</pattern>
+	<template><srai>TITLE 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 663</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS663 is Digital Image Processing. </li>
+			<li>$The course title of CS663 is Digital Image Processing. </li>
+			<li>$Course code CS663 is Digital Image Processing. </li>
+			<li>$CS663 is Digital Image Processing. </li>
+			<li>$Digital Image Processing. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS663</pattern>
+	<template><srai>STUDENTSTRENGTH 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 663</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS663. </li>
+			<li>$There are 0 students in Digital Image Processing. </li>
+			<li>$0 students are enrolled in CS663. </li>
+			<li>$0 students are enrolled in Digital Image Processing. </li>
+			<li>$0 students have signed up for CS663. </li>
+			<li>$0 students have signed up for Digital Image Processing. </li>
+			<li>$The student strength of CS663 is 0. </li>
+			<li>$The student strength of Digital Image Processing is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS663 _ CLASS</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS663 CLASS</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ RETURN</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 RETURN</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS663 _ LECTURE</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS663 LECTURE</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 CLASS RETURN</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TIME SLOT</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS663 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS663 CLASS RETURN</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ VENUE</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 VENUE</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS663</pattern>
+	<template><srai>VENUE 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 663</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS663. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS663. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS663. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS663. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS663. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS663. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS663. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS663. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS663</pattern>
+	<template><srai>GRADE_AP 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 663</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS663, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS663, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS663, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_AA 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 663</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS663, 2014. </li>
+			<li>$AA grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got AA grade in CS663, 2014. </li>
+			<li>$0 students got AA grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS663</pattern>
+	<template><srai>GRADE_AB 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 663</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS663, 2014. </li>
+			<li>$AB grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got AB grade in CS663, 2014. </li>
+			<li>$0 students got AB grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS663</pattern>
+	<template><srai>GRADE_BB 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 663</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS663, 2014. </li>
+			<li>$BB grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got BB grade in CS663, 2014. </li>
+			<li>$0 students got BB grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS663</pattern>
+	<template><srai>GRADE_BC 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 663</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS663, 2014. </li>
+			<li>$BC grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got BC grade in CS663, 2014. </li>
+			<li>$0 students got BC grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS663</pattern>
+	<template><srai>GRADE_CC 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 663</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS663, 2014. </li>
+			<li>$CC grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got CC grade in CS663, 2014. </li>
+			<li>$0 students got CC grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS663</pattern>
+	<template><srai>GRADE_CD 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 663</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS663, 2014. </li>
+			<li>$CD grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got CD grade in CS663, 2014. </li>
+			<li>$0 students got CD grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS663</pattern>
+	<template><srai>GRADE_DD 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 663</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS663, 2014. </li>
+			<li>$DD grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got DD grade in CS663, 2014. </li>
+			<li>$0 students got DD grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS663</pattern>
+	<template><srai>GRADE_DX 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 663</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS663, 2014. </li>
+			<li>$DX grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got DX grade in CS663, 2014. </li>
+			<li>$0 students got DX grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS663</pattern>
+	<template><srai>GRADE_FR 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 663</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS663, 2014. </li>
+			<li>$FR grade was given to 0 students in Digital Image Processing, 2014. </li>
+			<li>$0 students got FR grade in CS663, 2014. </li>
+			<li>$0 students got FR grade in Digital Image Processing, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS663, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Digital Image Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS663</pattern>
+	<template><srai>GRADES 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 663</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS663, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Digital Image Processing, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS663 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ BOOK</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 BOOK</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ MENTION</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 MENTION</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS663</pattern>
+	<template><srai>REFERENCES 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 663</pattern>
+	<template>
+		<random>
+			<li>$The references are N/A for CS663. </li>
+			<li>$The references are N/A for Digital Image Processing. </li>
+			<li>$References according to Professor Suyash Awate / Ajit Rajwade are N/A for CS663. </li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS663 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 THEORY LAB</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS663</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS663</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS663</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS663</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS663</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS663</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS663 _ COURSE</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS663 COURSE</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 LAB THEORY</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TYPE</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TYPE</pattern>
+	<template><srai>TYPE 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 663</pattern>
+	<template>
+		<random>
+			<li>$CS663 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS663 _ RETURN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS663 RETURN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS663 _ RUN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS663 RUN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS663 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS663 GET STRETCH</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ SPAN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 SPAN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS663 _ COURSE</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS663 COURSE</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS663 _ RUN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS663 RUN</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ LENGTH</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 LENGTH</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ DURATION</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 DURATION</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS663</pattern>
+	<template><srai>DURATION 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 663</pattern>
+	<template>
+		<random>
+			<li>$CS663 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS663 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ URL</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 URL</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS663</pattern>
+	<template><srai>HOMEPAGE 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 663</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~ajitvr/CS663/ for more information on CS663</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~ajitvr/CS663/ for more information on Digital Image Processing</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~ajitvr/CS663/. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~ajitvr/CS663/. </li>
+			<li>$http://www.cse.iitb.ac.in/~ajitvr/CS663/. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS663 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 PREREQ</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>CS663 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS663</pattern>
+	<template><srai>PREREQUISITES 663</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 663</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS663</li>
+			<li>$You should have completed N/A to register for Digital Image Processing</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

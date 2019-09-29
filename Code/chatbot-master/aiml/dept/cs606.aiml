@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>OVERSEE _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TEACH</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS606 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS606 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS606</pattern>
+	<template><srai>INSTRUCTOR 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 606</pattern>
+	<template>
+		<random>
+			<li>$Professor Abhiram Ranade is teaching CS606. </li>
+			<li>$Professor Abhiram Ranade will be teaching CS606. </li>
+			<li>$Instructor of CS606 is Professor Abhiram Ranade. </li>
+			<li>$CS606 is running under instruction of Professor Abhiram Ranade. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS606 _ WORTH</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS606 WORTH</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS606</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS606 _ CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS606 CREDITS</pattern>
+	<template><srai>CREDITS 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 606</pattern>
+	<template>
+		<random>
+			<li>$CS 606 is worth 6 credits. </li>
+			<li>$CS 606 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS606. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS606 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 OUTLINE</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 SURVEY</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 SCOPE</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS606</pattern>
+	<template><srai>SYLLABUS 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 606</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS606 is Elementary Parallel Algorithms, Graph Embeddings, Packet Routing, Communication Networks, VLSI Layouts, Map Reduce. </li>
+			<li>$Elementary Parallel Algorithms, Graph Embeddings, Packet Routing, Communication Networks, VLSI Layouts, Map Reduce is taught in CS606. </li>
+			<li>$Prof. Abhiram Ranade will teach Elementary Parallel Algorithms, Graph Embeddings, Packet Routing, Communication Networks, VLSI Layouts, Map Reduce in CS606. </li>
+			<li>$Elementary Parallel Algorithms, Graph Embeddings, Packet Routing, Communication Networks, VLSI Layouts, Map Reduce. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS606 _ TITLE</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS606 TITLE</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ NAME</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 NAME</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TITLE</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TITLE</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS606 _ NAME</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS606 NAME</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 COURSE NAME</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 COURSE TITLE</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS606</pattern>
+	<template><srai>TITLE 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 606</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS606 is Foundations of Parallel Computation. </li>
+			<li>$The course title of CS606 is Foundations of Parallel Computation. </li>
+			<li>$Course code CS606 is Foundations of Parallel Computation. </li>
+			<li>$CS606 is Foundations of Parallel Computation. </li>
+			<li>$Foundations of Parallel Computation. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS606</pattern>
+	<template><srai>STUDENTSTRENGTH 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 606</pattern>
+	<template>
+		<random>
+			<li>$There are 18 students in CS606. </li>
+			<li>$There are 18 students in Foundations of Parallel Computation. </li>
+			<li>$18 students are enrolled in CS606. </li>
+			<li>$18 students are enrolled in Foundations of Parallel Computation. </li>
+			<li>$18 students have signed up for CS606. </li>
+			<li>$18 students have signed up for Foundations of Parallel Computation. </li>
+			<li>$The student strength of CS606 is 18. </li>
+			<li>$The student strength of Foundations of Parallel Computation is 18. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ VENUE</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 VENUE</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 CLASS RETURN</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ RETURN</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 RETURN</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS606 _ LECTURE</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS606 LECTURE</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS606 _ CLASS</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS606 CLASS</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS606 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS606 CLASS RETURN</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS606</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TIME SLOT</pattern>
+	<template><srai>VENUE 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 606</pattern>
+	<template>
+		<random>
+			<li>$The venue is SIC 301 and timeslot is 1 for CS606. </li>
+			<li>$The venue is SIC 301, KreSit and timeslot is 1 for CS606. </li>
+			<li>$The classes are held in SIC 301 and timeslot is 1 for CS606. </li>
+			<li>$The classes are held in SIC 301, KreSit and timeslot is 1 for CS606. </li>
+			<li>$The venue and timeslot are SIC 301 and 1 respectively for CS606. </li>
+			<li>$The venue and timeslot are SIC 301, KreSit and 1 respectively for CS606. </li>
+			<li>$The venue is SIC 301, the timeslot is 1 for CS606. </li>
+			<li>$The venue is SIC 301, KreSit, the timeslot is 1 for CS606. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS606</pattern>
+	<template><srai>GRADE_AP 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 606</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 1 student in CS606, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 1 student in Foundations of Parallel Computation, 2014. </li>
+			<li>$1 student got AP grade for exceptional performance in CS606, 2014. </li>
+			<li>$1 student got AP grade for exceptional performance in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting AP grade was 1 for exceptional performance in CS606, 2014. </li>
+			<li>$Number of students getting AP grade was 1 for exceptional performance in Foundations of Parallel Computation, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS606</pattern>
+	<template><srai>GRADE_AA 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 606</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 1 student in CS606, 2014. </li>
+			<li>$AA grade was given to 1 student in Foundations of Parallel Computation, 2014. </li>
+			<li>$1 student got AA grade in CS606, 2014. </li>
+			<li>$1 student got AA grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting AA grade was 1 in CS606, 2014. </li>
+			<li>$Number of students getting AA grade was 1 in Foundations of Parallel Computation, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS606</pattern>
+	<template><srai>GRADE_AB 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 606</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 1 student in CS606, 2014. </li>
+			<li>$AB grade was given to 1 student in Foundations of Parallel Computation, 2014. </li>
+			<li>$1 student got AB grade in CS606, 2014. </li>
+			<li>$1 student got AB grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting AB grade was 1 in CS606, 2014. </li>
+			<li>$Number of students getting AB grade was 1 in Foundations of Parallel Computation, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS606</pattern>
+	<template><srai>GRADE_BB 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 606</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 3 students in CS606, 2014. </li>
+			<li>$BB grade was given to 3 students in Foundations of Parallel Computation, 2014. </li>
+			<li>$3 students got BB grade in CS606, 2014. </li>
+			<li>$3 students got BB grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting BB grade was 3 in CS606, 2014. </li>
+			<li>$Number of students getting BB grade was 3 in Foundations of Parallel Computation, 2014. </li>
+			<li>$3. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS606</pattern>
+	<template><srai>GRADE_BC 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 606</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 1 student in CS606, 2014. </li>
+			<li>$BC grade was given to 1 student in Foundations of Parallel Computation, 2014. </li>
+			<li>$1 student got BC grade in CS606, 2014. </li>
+			<li>$1 student got BC grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting BC grade was 1 in CS606, 2014. </li>
+			<li>$Number of students getting BC grade was 1 in Foundations of Parallel Computation, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS606</pattern>
+	<template><srai>GRADE_CC 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 606</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 4 students in CS606, 2014. </li>
+			<li>$CC grade was given to 4 students in Foundations of Parallel Computation, 2014. </li>
+			<li>$4 students got CC grade in CS606, 2014. </li>
+			<li>$4 students got CC grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting CC grade was 4 in CS606, 2014. </li>
+			<li>$Number of students getting CC grade was 4 in Foundations of Parallel Computation, 2014. </li>
+			<li>$4. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CD _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS606</pattern>
+	<template><srai>GRADE_CD 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 606</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 5 students in CS606, 2014. </li>
+			<li>$CD grade was given to 5 students in Foundations of Parallel Computation, 2014. </li>
+			<li>$5 students got CD grade in CS606, 2014. </li>
+			<li>$5 students got CD grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting CD grade was 5 in CS606, 2014. </li>
+			<li>$Number of students getting CD grade was 5 in Foundations of Parallel Computation, 2014. </li>
+			<li>$5. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS606</pattern>
+	<template><srai>GRADE_DD 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 606</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS606, 2014. </li>
+			<li>$DD grade was given to 0 students in Foundations of Parallel Computation, 2014. </li>
+			<li>$0 students got DD grade in CS606, 2014. </li>
+			<li>$0 students got DD grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS606, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Foundations of Parallel Computation, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_DX 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 606</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS606, 2014. </li>
+			<li>$DX grade was given to 0 students in Foundations of Parallel Computation, 2014. </li>
+			<li>$0 students got DX grade in CS606, 2014. </li>
+			<li>$0 students got DX grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS606, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Foundations of Parallel Computation, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS606</pattern>
+	<template><srai>GRADE_FR 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 606</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 2 students in CS606, 2014. </li>
+			<li>$FR grade was given to 2 students in Foundations of Parallel Computation, 2014. </li>
+			<li>$2 students got FR grade in CS606, 2014. </li>
+			<li>$2 students got FR grade in Foundations of Parallel Computation, 2014. </li>
+			<li>$Number of students getting FR grade was 2 in CS606, 2014. </li>
+			<li>$Number of students getting FR grade was 2 in Foundations of Parallel Computation, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS606</pattern>
+	<template><srai>GRADES 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 606</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS606, 2014 are:- [AP:1], [AA:1], [AB:1], [BB:3], [BC:1], [CC:4], [CD:5], [DD:0], [DX:0], [FR:2]. </li>
+			<li>$The grading statistics for Foundations of Parallel Computation, 2014 are:- [AP:1], [AA:1], [AB:1], [BB:3], [BC:1], [CC:4], [CD:5], [DD:0], [DX:0], [FR:2]. </li>
+			<li>$[AP:1], [AA:1], [AB:1], [BB:3], [BC:1], [CC:4], [CD:5], [DD:0], [DX:0], [FR:2]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS606 _ BOOK</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 BOOK</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ MENTION</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 MENTION</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS606</pattern>
+	<template><srai>REFERENCES 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 606</pattern>
+	<template>
+		<random>
+			<li>$The references are VLSI Layouts, Parallel Computing Berkley for CS606. </li>
+			<li>$The references are VLSI Layouts, Parallel Computing Berkley for Foundations of Parallel Computation. </li>
+			<li>$References according to Professor Abhiram Ranade are VLSI Layouts, Parallel Computing Berkley for CS606. </li>
+			<li>$VLSI Layouts, Parallel Computing Berkley. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS606</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS606</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS606</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS606</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TYPE</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TYPE</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 LAB THEORY</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS606 _ COURSE</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS606 COURSE</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 THEORY LAB</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS606</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS606</pattern>
+	<template><srai>TYPE 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 606</pattern>
+	<template>
+		<random>
+			<li>$CS606 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS606 _ COURSE</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS606 COURSE</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS606 _ RETURN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS606 RETURN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ DURATION</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 DURATION</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ LENGTH</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 LENGTH</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS606 _ RUN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS606 RUN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS606 _ RUN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS606 RUN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ SPAN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 SPAN</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS606 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS606 GET STRETCH</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS606</pattern>
+	<template><srai>DURATION 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 606</pattern>
+	<template>
+		<random>
+			<li>$CS606 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS606 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ URL</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 URL</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS606</pattern>
+	<template><srai>HOMEPAGE 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 606</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~ranade/606/ for more information on CS606</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~ranade/606/ for more information on Foundations of Parallel Computation</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~ranade/606/. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~ranade/606/. </li>
+			<li>$http://www.cse.iitb.ac.in/~ranade/606/. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS606 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>CS606 PREREQ</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS606</pattern>
+	<template><srai>PREREQUISITES 606</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 606</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: CS218</li>
+			<li>$You should have completed CS218 to register for CS606</li>
+			<li>$You should have completed CS218 to register for Foundations of Parallel Computation</li>
+			<li>$CS218. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

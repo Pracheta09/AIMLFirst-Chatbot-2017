@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TEACH</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS317 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS317 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS317</pattern>
+	<template><srai>INSTRUCTOR 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 317</pattern>
+	<template>
+		<random>
+			<li>$Professor NL. Sarda is teaching CS317. </li>
+			<li>$Professor NL. Sarda will be teaching CS317. </li>
+			<li>$Instructor of CS317 is Professor NL. Sarda. </li>
+			<li>$CS317 is running under instruction of Professor NL. Sarda. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS317 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS317 _ CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS317 CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS317</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS317 _ WORTH</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS317 WORTH</pattern>
+	<template><srai>CREDITS 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 317</pattern>
+	<template>
+		<random>
+			<li>$CS 317 is worth 6 credits. </li>
+			<li>$CS 317 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS317. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 SURVEY</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 OUTLINE</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 SCOPE</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS317</pattern>
+	<template><srai>SYLLABUS 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 317</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS317 is SQL, JDBC, Database Design, Query Processing, Transaction Systems. </li>
+			<li>$SQL, JDBC, Database Design, Query Processing, Transaction Systems is taught in CS317. </li>
+			<li>$Prof. NL. Sarda will teach SQL, JDBC, Database Design, Query Processing, Transaction Systems in CS317. </li>
+			<li>$SQL, JDBC, Database Design, Query Processing, Transaction Systems. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ NAME</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 NAME</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS317 _ TITLE</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS317 TITLE</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TITLE</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TITLE</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 COURSE NAME</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 COURSE TITLE</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS317 _ NAME</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS317 NAME</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS317</pattern>
+	<template><srai>TITLE 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 317</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS317 is Introduction to Database Systems. </li>
+			<li>$The course title of CS317 is Introduction to Database Systems. </li>
+			<li>$Course code CS317 is Introduction to Database Systems. </li>
+			<li>$CS317 is Introduction to Database Systems. </li>
+			<li>$Introduction to Database Systems. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS317</pattern>
+	<template><srai>STUDENTSTRENGTH 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 317</pattern>
+	<template>
+		<random>
+			<li>$There are 131 students in CS317. </li>
+			<li>$There are 131 students in Introduction to Database Systems. </li>
+			<li>$131 students are enrolled in CS317. </li>
+			<li>$131 students are enrolled in Introduction to Database Systems. </li>
+			<li>$131 students have signed up for CS317. </li>
+			<li>$131 students have signed up for Introduction to Database Systems. </li>
+			<li>$The student strength of CS317 is 131. </li>
+			<li>$The student strength of Introduction to Database Systems is 131. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS317 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TIME SLOT</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS317 _ LECTURE</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS317 LECTURE</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ VENUE</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 VENUE</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ RETURN</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 RETURN</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS317 _ CLASS</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS317 CLASS</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS317 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS317 CLASS RETURN</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 CLASS RETURN</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS317</pattern>
+	<template><srai>VENUE 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 317</pattern>
+	<template>
+		<random>
+			<li>$The venue is LH 301 and timeslot is 6 for CS317. </li>
+			<li>$The venue is Lecture Hall 301 and timeslot is 6 for CS317. </li>
+			<li>$The classes are held in LH 301 and timeslot is 6 for CS317. </li>
+			<li>$The classes are held in Lecture Hall 301 and timeslot is 6 for CS317. </li>
+			<li>$The venue and timeslot are LH 301 and 6 respectively for CS317. </li>
+			<li>$The venue and timeslot are Lecture Hall 301 and 6 respectively for CS317. </li>
+			<li>$The venue is LH 301, the timeslot is 6 for CS317. </li>
+			<li>$The venue is Lecture Hall 301, the timeslot is 6 for CS317. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS317</pattern>
+	<template><srai>GRADE_AP 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 317</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS317, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Introduction to Database Systems, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS317, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS317, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Introduction to Database Systems, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS317</pattern>
+	<template><srai>GRADE_AA 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 317</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 20 students in CS317, 2014. </li>
+			<li>$AA grade was given to 20 students in Introduction to Database Systems, 2014. </li>
+			<li>$20 students got AA grade in CS317, 2014. </li>
+			<li>$20 students got AA grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting AA grade was 20 in CS317, 2014. </li>
+			<li>$Number of students getting AA grade was 20 in Introduction to Database Systems, 2014. </li>
+			<li>$20. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS317</pattern>
+	<template><srai>GRADE_AB 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 317</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 15 students in CS317, 2014. </li>
+			<li>$AB grade was given to 15 students in Introduction to Database Systems, 2014. </li>
+			<li>$15 students got AB grade in CS317, 2014. </li>
+			<li>$15 students got AB grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting AB grade was 15 in CS317, 2014. </li>
+			<li>$Number of students getting AB grade was 15 in Introduction to Database Systems, 2014. </li>
+			<li>$15. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BB _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS317</pattern>
+	<template><srai>GRADE_BB 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 317</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 30 students in CS317, 2014. </li>
+			<li>$BB grade was given to 30 students in Introduction to Database Systems, 2014. </li>
+			<li>$30 students got BB grade in CS317, 2014. </li>
+			<li>$30 students got BB grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting BB grade was 30 in CS317, 2014. </li>
+			<li>$Number of students getting BB grade was 30 in Introduction to Database Systems, 2014. </li>
+			<li>$30. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS317</pattern>
+	<template><srai>GRADE_BC 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 317</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 18 students in CS317, 2014. </li>
+			<li>$BC grade was given to 18 students in Introduction to Database Systems, 2014. </li>
+			<li>$18 students got BC grade in CS317, 2014. </li>
+			<li>$18 students got BC grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting BC grade was 18 in CS317, 2014. </li>
+			<li>$Number of students getting BC grade was 18 in Introduction to Database Systems, 2014. </li>
+			<li>$18. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CC _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS317</pattern>
+	<template><srai>GRADE_CC 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 317</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 13 students in CS317, 2014. </li>
+			<li>$CC grade was given to 13 students in Introduction to Database Systems, 2014. </li>
+			<li>$13 students got CC grade in CS317, 2014. </li>
+			<li>$13 students got CC grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting CC grade was 13 in CS317, 2014. </li>
+			<li>$Number of students getting CC grade was 13 in Introduction to Database Systems, 2014. </li>
+			<li>$13. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS317</pattern>
+	<template><srai>GRADE_CD 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 317</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 20 students in CS317, 2014. </li>
+			<li>$CD grade was given to 20 students in Introduction to Database Systems, 2014. </li>
+			<li>$20 students got CD grade in CS317, 2014. </li>
+			<li>$20 students got CD grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting CD grade was 20 in CS317, 2014. </li>
+			<li>$Number of students getting CD grade was 20 in Introduction to Database Systems, 2014. </li>
+			<li>$20. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS317</pattern>
+	<template><srai>GRADE_DD 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 317</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 7 students in CS317, 2014. </li>
+			<li>$DD grade was given to 7 students in Introduction to Database Systems, 2014. </li>
+			<li>$7 students got DD grade in CS317, 2014. </li>
+			<li>$7 students got DD grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting DD grade was 7 in CS317, 2014. </li>
+			<li>$Number of students getting DD grade was 7 in Introduction to Database Systems, 2014. </li>
+			<li>$7. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS317</pattern>
+	<template><srai>GRADE_DX 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 317</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS317, 2014. </li>
+			<li>$DX grade was given to 0 students in Introduction to Database Systems, 2014. </li>
+			<li>$0 students got DX grade in CS317, 2014. </li>
+			<li>$0 students got DX grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS317, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Introduction to Database Systems, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS317</pattern>
+	<template><srai>GRADE_FR 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 317</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 8 students in CS317, 2014. </li>
+			<li>$FR grade was given to 8 students in Introduction to Database Systems, 2014. </li>
+			<li>$8 students got FR grade in CS317, 2014. </li>
+			<li>$8 students got FR grade in Introduction to Database Systems, 2014. </li>
+			<li>$Number of students getting FR grade was 8 in CS317, 2014. </li>
+			<li>$Number of students getting FR grade was 8 in Introduction to Database Systems, 2014. </li>
+			<li>$8. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS317</pattern>
+	<template><srai>GRADES 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 317</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS317, 2014 are:- [AP:0], [AA:20], [AB:15], [BB:30], [BC:18], [CC:13], [CD:20], [DD:7], [DX:0], [FR:8]. </li>
+			<li>$The grading statistics for Introduction to Database Systems, 2014 are:- [AP:0], [AA:20], [AB:15], [BB:30], [BC:18], [CC:13], [CD:20], [DD:7], [DX:0], [FR:8]. </li>
+			<li>$[AP:0], [AA:20], [AB:15], [BB:30], [BC:18], [CC:13], [CD:20], [DD:7], [DX:0], [FR:8]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS317 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ MENTION</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 MENTION</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ BOOK</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 BOOK</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS317</pattern>
+	<template><srai>REFERENCES 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 317</pattern>
+	<template>
+		<random>
+			<li>$The references are Abraham Silberschatz, Henry F. Korth and S. Sudarshan, Database System Concepts 5th Ed, McGraw Hill, 2006 for CS317. </li>
+			<li>$The references are Abraham Silberschatz, Henry F. Korth and S. Sudarshan, Database System Concepts 5th Ed, McGraw Hill, 2006 for Introduction to Database Systems. </li>
+			<li>$References according to Professor NL. Sarda are Abraham Silberschatz, Henry F. Korth and S. Sudarshan, Database System Concepts 5th Ed, McGraw Hill, 2006 for CS317. </li>
+			<li>$Abraham Silberschatz, Henry F. Korth and S. Sudarshan, Database System Concepts 5th Ed, McGraw Hill, 2006. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS317 _ COURSE</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS317 COURSE</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS317</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS317</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TYPE</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TYPE</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS317</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS317</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 LAB THEORY</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS317</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS317</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 THEORY LAB</pattern>
+	<template><srai>TYPE 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 317</pattern>
+	<template>
+		<random>
+			<li>$CS317 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS317 _ COURSE</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS317 COURSE</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS317 _ RETURN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS317 RETURN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ LENGTH</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 LENGTH</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ DURATION</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 DURATION</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS317 _ RUN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS317 RUN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS317 _ RUN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS317 RUN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ SPAN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 SPAN</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS317 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS317 GET STRETCH</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS317</pattern>
+	<template><srai>DURATION 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 317</pattern>
+	<template>
+		<random>
+			<li>$CS317 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS317 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ URL</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 URL</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS317</pattern>
+	<template><srai>HOMEPAGE 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 317</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.moodle.iitb.ac.in/course/ for more information on CS317</li>
+			<li>$Please visit http://www.moodle.iitb.ac.in/course/ for more information on Introduction to Database Systems</li>
+			<li>$The course page is http://www.moodle.iitb.ac.in/course/. </li>
+			<li>$Course Website is http://www.moodle.iitb.ac.in/course/. </li>
+			<li>$http://www.moodle.iitb.ac.in/course/. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 PREREQ</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS317</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<category>
+	<pattern>CS317 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 317</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 317</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: CS213</li>
+			<li>$You should have completed CS213 to register for CS317</li>
+			<li>$You should have completed CS213 to register for Introduction to Database Systems</li>
+			<li>$CS213. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

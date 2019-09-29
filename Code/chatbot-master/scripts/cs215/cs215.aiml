@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>OVERSEE _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TEACH</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS215 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS215 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS215</pattern>
+	<template><srai>INSTRUCTOR 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 215</pattern>
+	<template>
+		<random>
+			<li>$Professor Ajit Rajwade / Suyash Awate is teaching CS215. </li>
+			<li>$Professor Ajit Rajwade / Suyash Awate will be teaching CS215. </li>
+			<li>$Instructor of CS215 is Professor Ajit Rajwade / Suyash Awate. </li>
+			<li>$CS215 is running under instruction of Professor Ajit Rajwade / Suyash Awate. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS215 _ CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS215 CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS215 _ WORTH</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS215 WORTH</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 CREDITS</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS215</pattern>
+	<template><srai>CREDITS 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 215</pattern>
+	<template>
+		<random>
+			<li>$CS 215 is worth 0 credits. </li>
+			<li>$CS 215 is of 0 credits. </li>
+			<li>$0 credits are awarded on successful completion of CS215. </li>
+			<li>$0 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS215 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 OUTLINE</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 SURVEY</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 SCOPE</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS215</pattern>
+	<template><srai>SYLLABUS 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 215</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS215 is See course home page below.. </li>
+			<li>$See course home page below. is taught in CS215. </li>
+			<li>$Prof. Ajit Rajwade / Suyash Awate will teach See course home page below. in CS215. </li>
+			<li>$See course home page below.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS215 _ NAME</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 NAME</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS215 _ TITLE</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS215 TITLE</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 COURSE TITLE</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS215 _ NAME</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS215 NAME</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS215</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TITLE</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TITLE</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 COURSE NAME</pattern>
+	<template><srai>TITLE 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 215</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS215 is Data Interpretation and Analysis. </li>
+			<li>$The course title of CS215 is Data Interpretation and Analysis. </li>
+			<li>$Course code CS215 is Data Interpretation and Analysis. </li>
+			<li>$CS215 is Data Interpretation and Analysis. </li>
+			<li>$Data Interpretation and Analysis. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS215</pattern>
+	<template><srai>STUDENTSTRENGTH 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 215</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS215. </li>
+			<li>$There are 0 students in Data Interpretation and Analysis. </li>
+			<li>$0 students are enrolled in CS215. </li>
+			<li>$0 students are enrolled in Data Interpretation and Analysis. </li>
+			<li>$0 students have signed up for CS215. </li>
+			<li>$0 students have signed up for Data Interpretation and Analysis. </li>
+			<li>$The student strength of CS215 is 0. </li>
+			<li>$The student strength of Data Interpretation and Analysis is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS215 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 CLASS RETURN</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ RETURN</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 RETURN</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS215 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS215 CLASS RETURN</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ VENUE</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 VENUE</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS215 _ LECTURE</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS215 LECTURE</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS215 _ CLASS</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS215 CLASS</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS215</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TIME SLOT</pattern>
+	<template><srai>VENUE 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 215</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS215. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS215. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS215. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS215. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS215. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS215. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS215. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS215. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AP _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS215</pattern>
+	<template><srai>GRADE_AP 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 215</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS215, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS215, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS215, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS215</pattern>
+	<template><srai>GRADE_AA 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 215</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS215, 2014. </li>
+			<li>$AA grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got AA grade in CS215, 2014. </li>
+			<li>$0 students got AA grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS215</pattern>
+	<template><srai>GRADE_AB 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 215</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS215, 2014. </li>
+			<li>$AB grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got AB grade in CS215, 2014. </li>
+			<li>$0 students got AB grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS215</pattern>
+	<template><srai>GRADE_BB 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 215</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS215, 2014. </li>
+			<li>$BB grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got BB grade in CS215, 2014. </li>
+			<li>$0 students got BB grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS215</pattern>
+	<template><srai>GRADE_BC 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 215</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS215, 2014. </li>
+			<li>$BC grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got BC grade in CS215, 2014. </li>
+			<li>$0 students got BC grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS215</pattern>
+	<template><srai>GRADE_CC 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 215</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS215, 2014. </li>
+			<li>$CC grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got CC grade in CS215, 2014. </li>
+			<li>$0 students got CC grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_CD 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 215</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS215, 2014. </li>
+			<li>$CD grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got CD grade in CS215, 2014. </li>
+			<li>$0 students got CD grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>DD _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_DD 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 215</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS215, 2014. </li>
+			<li>$DD grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got DD grade in CS215, 2014. </li>
+			<li>$0 students got DD grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>DX _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_DX 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 215</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS215, 2014. </li>
+			<li>$DX grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got DX grade in CS215, 2014. </li>
+			<li>$0 students got DX grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS215</pattern>
+	<template><srai>GRADE_FR 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 215</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS215, 2014. </li>
+			<li>$FR grade was given to 0 students in Data Interpretation and Analysis, 2014. </li>
+			<li>$0 students got FR grade in CS215, 2014. </li>
+			<li>$0 students got FR grade in Data Interpretation and Analysis, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS215, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Data Interpretation and Analysis, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS215</pattern>
+	<template><srai>GRADES 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 215</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS215, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Data Interpretation and Analysis, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ MENTION</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 MENTION</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS215</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ BOOK</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 BOOK</pattern>
+	<template><srai>REFERENCES 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 215</pattern>
+	<template>
+		<random>
+			<li>$The references are Course textbook: Introduction to Probability and Statistics for Engineers and Scientists: Fourth Edition for CS215. </li>
+			<li>$The references are Course textbook: Introduction to Probability and Statistics for Engineers and Scientists: Fourth Edition for Data Interpretation and Analysis. </li>
+			<li>$References according to Professor Ajit Rajwade / Suyash Awate are Course textbook: Introduction to Probability and Statistics for Engineers and Scientists: Fourth Edition for CS215. </li>
+			<li>$Course textbook: Introduction to Probability and Statistics for Engineers and Scientists: Fourth Edition. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS215</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS215</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TYPE</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TYPE</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 LAB THEORY</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS215 _ COURSE</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS215 COURSE</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS215</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS215</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 THEORY LAB</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS215</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS215</pattern>
+	<template><srai>TYPE 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 215</pattern>
+	<template>
+		<random>
+			<li>$CS215 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS215 _ RETURN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS215 RETURN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ DURATION</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 DURATION</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ SPAN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 SPAN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ LENGTH</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 LENGTH</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS215 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS215 GET STRETCH</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS215 _ RUN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS215 RUN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS215 _ RUN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS215 RUN</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS215 _ COURSE</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS215 COURSE</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS215</pattern>
+	<template><srai>DURATION 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 215</pattern>
+	<template>
+		<random>
+			<li>$CS215 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS215 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS215 _ URL</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 URL</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS215</pattern>
+	<template><srai>HOMEPAGE 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 215</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2015/ for more information on CS215</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2015/ for more information on Data Interpretation and Analysis</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2015/. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2015/. </li>
+			<li>$http://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2015/. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 PREREQ</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS215</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<category>
+	<pattern>CS215 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 215</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 215</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS215</li>
+			<li>$You should have completed N/A to register for Data Interpretation and Analysis</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

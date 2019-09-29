@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TEACH</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS745 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS745 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS745</pattern>
+	<template><srai>INSTRUCTOR 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 745</pattern>
+	<template>
+		<random>
+			<li>$Professor R K. Shyamasundar is teaching CS745. </li>
+			<li>$Professor R K. Shyamasundar will be teaching CS745. </li>
+			<li>$Instructor of CS745 is Professor R K. Shyamasundar. </li>
+			<li>$CS745 is running under instruction of Professor R K. Shyamasundar. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS745 _ CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS745 CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS745</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS745 _ WORTH</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS745 WORTH</pattern>
+	<template><srai>CREDITS 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 745</pattern>
+	<template>
+		<random>
+			<li>$CS 745 is worth 6 credits. </li>
+			<li>$CS 745 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS745. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 SURVEY</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 OUTLINE</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS745</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 SCOPE</pattern>
+	<template><srai>SYLLABUS 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 745</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS745 is Access Control: Mandatory Access Control, Discrete Access Control, Principles of Least Privilege, Distributed Access Control , Role based Access, Attribute Based Access, Key Management, SPKI/SDSI, Concepts of Security: Confidentiality, Containment, isolation, Privacy, Anonymity, pseudo-anonymity etc., Policy specification, User authentication, Session management, multi-level security, multi-lateral security, Security Mechanisms: Protection, Confinement, Isolation, Virtual machines, Non-interference Dealing with legacy code, Sandboxes, Separability, Data caging, OS Security: Principles, Case studies of Operating Systems, secure OS like SELINUX, Run-Time Monitoring: Security Automata, Edit Automata, Shallow Automata,, Malware analysis and Counter measures: difficulties, approaches, defense against untrusted code, Security Models for Information Systems: Bell-LaPadula, Biba, Clark-Wilson, Lattice Model, Chinese Wall Model, Information Flow Models: Distributed Information Control, Secure OS based on IFC, Conference management systems like EasyChair, HotCrp, Language based security: Program analysis for Security, secure code practices and tools for secure code writing, Protocol Specification and Verification: Principles, Cryptographic protocols, protocol specification language characteristics., Web security models, application security, Browser Security, Information flow browsers, Special Topics: Mobile phone security, Android Security, Cloud security, Security of Internet of Things (IoT). </li>
+			<li>$Access Control: Mandatory Access Control, Discrete Access Control, Principles of Least Privilege, Distributed Access Control , Role based Access, Attribute Based Access, Key Management, SPKI/SDSI, Concepts of Security: Confidentiality, Containment, isolation, Privacy, Anonymity, pseudo-anonymity etc., Policy specification, User authentication, Session management, multi-level security, multi-lateral security, Security Mechanisms: Protection, Confinement, Isolation, Virtual machines, Non-interference Dealing with legacy code, Sandboxes, Separability, Data caging, OS Security: Principles, Case studies of Operating Systems, secure OS like SELINUX, Run-Time Monitoring: Security Automata, Edit Automata, Shallow Automata,, Malware analysis and Counter measures: difficulties, approaches, defense against untrusted code, Security Models for Information Systems: Bell-LaPadula, Biba, Clark-Wilson, Lattice Model, Chinese Wall Model, Information Flow Models: Distributed Information Control, Secure OS based on IFC, Conference management systems like EasyChair, HotCrp, Language based security: Program analysis for Security, secure code practices and tools for secure code writing, Protocol Specification and Verification: Principles, Cryptographic protocols, protocol specification language characteristics., Web security models, application security, Browser Security, Information flow browsers, Special Topics: Mobile phone security, Android Security, Cloud security, Security of Internet of Things (IoT) is taught in CS745. </li>
+			<li>$Prof. R K. Shyamasundar will teach Access Control: Mandatory Access Control, Discrete Access Control, Principles of Least Privilege, Distributed Access Control , Role based Access, Attribute Based Access, Key Management, SPKI/SDSI, Concepts of Security: Confidentiality, Containment, isolation, Privacy, Anonymity, pseudo-anonymity etc., Policy specification, User authentication, Session management, multi-level security, multi-lateral security, Security Mechanisms: Protection, Confinement, Isolation, Virtual machines, Non-interference Dealing with legacy code, Sandboxes, Separability, Data caging, OS Security: Principles, Case studies of Operating Systems, secure OS like SELINUX, Run-Time Monitoring: Security Automata, Edit Automata, Shallow Automata,, Malware analysis and Counter measures: difficulties, approaches, defense against untrusted code, Security Models for Information Systems: Bell-LaPadula, Biba, Clark-Wilson, Lattice Model, Chinese Wall Model, Information Flow Models: Distributed Information Control, Secure OS based on IFC, Conference management systems like EasyChair, HotCrp, Language based security: Program analysis for Security, secure code practices and tools for secure code writing, Protocol Specification and Verification: Principles, Cryptographic protocols, protocol specification language characteristics., Web security models, application security, Browser Security, Information flow browsers, Special Topics: Mobile phone security, Android Security, Cloud security, Security of Internet of Things (IoT) in CS745. </li>
+			<li>$Access Control: Mandatory Access Control, Discrete Access Control, Principles of Least Privilege, Distributed Access Control , Role based Access, Attribute Based Access, Key Management, SPKI/SDSI, Concepts of Security: Confidentiality, Containment, isolation, Privacy, Anonymity, pseudo-anonymity etc., Policy specification, User authentication, Session management, multi-level security, multi-lateral security, Security Mechanisms: Protection, Confinement, Isolation, Virtual machines, Non-interference Dealing with legacy code, Sandboxes, Separability, Data caging, OS Security: Principles, Case studies of Operating Systems, secure OS like SELINUX, Run-Time Monitoring: Security Automata, Edit Automata, Shallow Automata,, Malware analysis and Counter measures: difficulties, approaches, defense against untrusted code, Security Models for Information Systems: Bell-LaPadula, Biba, Clark-Wilson, Lattice Model, Chinese Wall Model, Information Flow Models: Distributed Information Control, Secure OS based on IFC, Conference management systems like EasyChair, HotCrp, Language based security: Program analysis for Security, secure code practices and tools for secure code writing, Protocol Specification and Verification: Principles, Cryptographic protocols, protocol specification language characteristics., Web security models, application security, Browser Security, Information flow browsers, Special Topics: Mobile phone security, Android Security, Cloud security, Security of Internet of Things (IoT). </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS745 _ NAME</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS745 NAME</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 COURSE TITLE</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ NAME</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 NAME</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 COURSE NAME</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS745 _ TITLE</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS745 TITLE</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TITLE</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TITLE</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS745</pattern>
+	<template><srai>TITLE 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 745</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS745 is Principles of Data and System Security. </li>
+			<li>$The course title of CS745 is Principles of Data and System Security. </li>
+			<li>$Course code CS745 is Principles of Data and System Security. </li>
+			<li>$CS745 is Principles of Data and System Security. </li>
+			<li>$Principles of Data and System Security. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS745</pattern>
+	<template><srai>STUDENTSTRENGTH 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 745</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS745. </li>
+			<li>$There are 0 students in Principles of Data and System Security. </li>
+			<li>$0 students are enrolled in CS745. </li>
+			<li>$0 students are enrolled in Principles of Data and System Security. </li>
+			<li>$0 students have signed up for CS745. </li>
+			<li>$0 students have signed up for Principles of Data and System Security. </li>
+			<li>$The student strength of CS745 is 0. </li>
+			<li>$The student strength of Principles of Data and System Security is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ CS745 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS745 CLASS RETURN</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ VENUE</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 VENUE</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS745 _ CLASS</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS745 CLASS</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 CLASS RETURN</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TIME SLOT</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ RETURN</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 RETURN</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS745 _ LECTURE</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS745 LECTURE</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS745</pattern>
+	<template><srai>VENUE 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 745</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS745. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS745. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS745. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS745. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS745. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS745. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS745. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS745. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS745</pattern>
+	<template><srai>GRADE_AP 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 745</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS745, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS745, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS745, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS745</pattern>
+	<template><srai>GRADE_AA 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 745</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS745, 2014. </li>
+			<li>$AA grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got AA grade in CS745, 2014. </li>
+			<li>$0 students got AA grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS745</pattern>
+	<template><srai>GRADE_AB 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 745</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS745, 2014. </li>
+			<li>$AB grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got AB grade in CS745, 2014. </li>
+			<li>$0 students got AB grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS745</pattern>
+	<template><srai>GRADE_BB 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 745</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS745, 2014. </li>
+			<li>$BB grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got BB grade in CS745, 2014. </li>
+			<li>$0 students got BB grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS745</pattern>
+	<template><srai>GRADE_BC 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 745</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS745, 2014. </li>
+			<li>$BC grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got BC grade in CS745, 2014. </li>
+			<li>$0 students got BC grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS745</pattern>
+	<template><srai>GRADE_CC 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 745</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS745, 2014. </li>
+			<li>$CC grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got CC grade in CS745, 2014. </li>
+			<li>$0 students got CC grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS745</pattern>
+	<template><srai>GRADE_CD 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 745</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS745, 2014. </li>
+			<li>$CD grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got CD grade in CS745, 2014. </li>
+			<li>$0 students got CD grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS745</pattern>
+	<template><srai>GRADE_DD 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 745</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS745, 2014. </li>
+			<li>$DD grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got DD grade in CS745, 2014. </li>
+			<li>$0 students got DD grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS745</pattern>
+	<template><srai>GRADE_DX 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 745</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS745, 2014. </li>
+			<li>$DX grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got DX grade in CS745, 2014. </li>
+			<li>$0 students got DX grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS745</pattern>
+	<template><srai>GRADE_FR 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 745</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS745, 2014. </li>
+			<li>$FR grade was given to 0 students in Principles of Data and System Security, 2014. </li>
+			<li>$0 students got FR grade in CS745, 2014. </li>
+			<li>$0 students got FR grade in Principles of Data and System Security, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS745, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Principles of Data and System Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS745</pattern>
+	<template><srai>GRADES 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 745</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS745, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Principles of Data and System Security, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ MENTION</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 MENTION</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS745</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ BOOK</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 BOOK</pattern>
+	<template><srai>REFERENCES 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 745</pattern>
+	<template>
+		<random>
+			<li>$The references are Chapters from classic books like, Ross Anderson, Security Engineering, 2nd Edition, Wiley publishers, 2008, Morrie Gasser, Building a Secure Computer System,Von Nostrand Reinhold,1988, Matt Bishop, Computer Security Art and Science, Addison Wesley, 2003, Dorothy Denning, Cryptography and Data Security, Addison Wesley, 1982 for CS745. </li>
+			<li>$The references are Chapters from classic books like, Ross Anderson, Security Engineering, 2nd Edition, Wiley publishers, 2008, Morrie Gasser, Building a Secure Computer System,Von Nostrand Reinhold,1988, Matt Bishop, Computer Security Art and Science, Addison Wesley, 2003, Dorothy Denning, Cryptography and Data Security, Addison Wesley, 1982 for Principles of Data and System Security. </li>
+			<li>$References according to Professor R K. Shyamasundar are Chapters from classic books like, Ross Anderson, Security Engineering, 2nd Edition, Wiley publishers, 2008, Morrie Gasser, Building a Secure Computer System,Von Nostrand Reinhold,1988, Matt Bishop, Computer Security Art and Science, Addison Wesley, 2003, Dorothy Denning, Cryptography and Data Security, Addison Wesley, 1982 for CS745. </li>
+			<li>$Chapters from classic books like, Ross Anderson, Security Engineering, 2nd Edition, Wiley publishers, 2008, Morrie Gasser, Building a Secure Computer System,Von Nostrand Reinhold,1988, Matt Bishop, Computer Security Art and Science, Addison Wesley, 2003, Dorothy Denning, Cryptography and Data Security, Addison Wesley, 1982. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS745 _ TYPE</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TYPE</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS745</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS745</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 THEORY LAB</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS745</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS745</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS745</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS745</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 LAB THEORY</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS745 _ COURSE</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS745 COURSE</pattern>
+	<template><srai>TYPE 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 745</pattern>
+	<template>
+		<random>
+			<li>$CS745 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS745 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS745 GET STRETCH</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS745 _ COURSE</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS745 COURSE</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ DURATION</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 DURATION</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS745 _ RETURN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS745 RETURN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ LENGTH</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 LENGTH</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ SPAN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 SPAN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS745</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS745 _ RUN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS745 RUN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS745 _ RUN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS745 RUN</pattern>
+	<template><srai>DURATION 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 745</pattern>
+	<template>
+		<random>
+			<li>$CS745 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS745 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ URL</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 URL</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS745</pattern>
+	<template><srai>HOMEPAGE 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 745</pattern>
+	<template>
+		<random>
+			<li>$Please visit www.cse.iitb.ac.in/~cs745 for more information on CS745</li>
+			<li>$Please visit www.cse.iitb.ac.in/~cs745 for more information on Principles of Data and System Security</li>
+			<li>$The course page is www.cse.iitb.ac.in/~cs745. </li>
+			<li>$Course Website is www.cse.iitb.ac.in/~cs745. </li>
+			<li>$www.cse.iitb.ac.in/~cs745. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS745 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 PREREQ</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS745</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<category>
+	<pattern>CS745 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 745</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 745</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS745</li>
+			<li>$You should have completed N/A to register for Principles of Data and System Security</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

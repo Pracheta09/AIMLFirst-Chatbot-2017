@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>CS691 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TEACH</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS691 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS691 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS691</pattern>
+	<template><srai>INSTRUCTOR 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 691</pattern>
+	<template>
+		<random>
+			<li>$Professor --- is teaching CS691. </li>
+			<li>$Professor --- will be teaching CS691. </li>
+			<li>$Instructor of CS691 is Professor ---. </li>
+			<li>$CS691 is running under instruction of Professor ---. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS691 _ CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS691 CREDITS</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS691</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS691 _ WORTH</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS691 WORTH</pattern>
+	<template><srai>CREDITS 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 691</pattern>
+	<template>
+		<random>
+			<li>$CS 691 is worth 0 credits. </li>
+			<li>$CS 691 is of 0 credits. </li>
+			<li>$0 credits are awarded on successful completion of CS691. </li>
+			<li>$0 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 OUTLINE</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 SURVEY</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 SCOPE</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS691</pattern>
+	<template><srai>SYLLABUS 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 691</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS691 is N/A. </li>
+			<li>$N/A is taught in CS691. </li>
+			<li>$Prof. --- will teach N/A in CS691. </li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS691 _ TITLE</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TITLE</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS691 _ NAME</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS691 NAME</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS691 _ TITLE</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS691 TITLE</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ NAME</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 NAME</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS691</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 COURSE NAME</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 COURSE TITLE</pattern>
+	<template><srai>TITLE 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 691</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS691 is R , D Project I. </li>
+			<li>$The course title of CS691 is R , D Project I. </li>
+			<li>$Course code CS691 is R , D Project I. </li>
+			<li>$CS691 is R , D Project I. </li>
+			<li>$R , D Project I. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS691</pattern>
+	<template><srai>STUDENTSTRENGTH 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 691</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS691. </li>
+			<li>$There are 0 students in R , D Project I. </li>
+			<li>$0 students are enrolled in CS691. </li>
+			<li>$0 students are enrolled in R , D Project I. </li>
+			<li>$0 students have signed up for CS691. </li>
+			<li>$0 students have signed up for R , D Project I. </li>
+			<li>$The student strength of CS691 is 0. </li>
+			<li>$The student strength of R , D Project I is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS691 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TIME SLOT</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS691 _ CLASS</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS691 CLASS</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS691 _ LECTURE</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS691 LECTURE</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ VENUE</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 VENUE</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 CLASS RETURN</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ RETURN</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 RETURN</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS691 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS691 CLASS RETURN</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS691</pattern>
+	<template><srai>VENUE 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 691</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS691. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS691. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS691. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS691. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS691. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS691. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS691. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS691. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS691</pattern>
+	<template><srai>GRADE_AP 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 691</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS691, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS691, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in R , D Project I, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS691, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS691</pattern>
+	<template><srai>GRADE_AA 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 691</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS691, 2014. </li>
+			<li>$AA grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got AA grade in CS691, 2014. </li>
+			<li>$0 students got AA grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_AB 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 691</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS691, 2014. </li>
+			<li>$AB grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got AB grade in CS691, 2014. </li>
+			<li>$0 students got AB grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS691</pattern>
+	<template><srai>GRADE_BB 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 691</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS691, 2014. </li>
+			<li>$BB grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got BB grade in CS691, 2014. </li>
+			<li>$0 students got BB grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS691</pattern>
+	<template><srai>GRADE_BC 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 691</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS691, 2014. </li>
+			<li>$BC grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got BC grade in CS691, 2014. </li>
+			<li>$0 students got BC grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_CC 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 691</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS691, 2014. </li>
+			<li>$CC grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got CC grade in CS691, 2014. </li>
+			<li>$0 students got CC grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS691</pattern>
+	<template><srai>GRADE_CD 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 691</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS691, 2014. </li>
+			<li>$CD grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got CD grade in CS691, 2014. </li>
+			<li>$0 students got CD grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_DD 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 691</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS691, 2014. </li>
+			<li>$DD grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got DD grade in CS691, 2014. </li>
+			<li>$0 students got DD grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS691</pattern>
+	<template><srai>GRADE_DX 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 691</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS691, 2014. </li>
+			<li>$DX grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got DX grade in CS691, 2014. </li>
+			<li>$0 students got DX grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS691</pattern>
+	<template><srai>GRADE_FR 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 691</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS691, 2014. </li>
+			<li>$FR grade was given to 0 students in R , D Project I, 2014. </li>
+			<li>$0 students got FR grade in CS691, 2014. </li>
+			<li>$0 students got FR grade in R , D Project I, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS691, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in R , D Project I, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS691</pattern>
+	<template><srai>GRADES 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 691</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS691, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for R , D Project I, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS691</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ BOOK</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 BOOK</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ MENTION</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 MENTION</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 691</pattern>
+	<template>
+		<random>
+			<li>$The references are N/A for CS691. </li>
+			<li>$The references are N/A for R , D Project I. </li>
+			<li>$References according to Professor --- are N/A for CS691. </li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS691 _ TYPE</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TYPE</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 LAB THEORY</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS691</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS691</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 THEORY LAB</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS691</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS691</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS691 _ COURSE</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS691 COURSE</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS691</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS691</pattern>
+	<template><srai>TYPE 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 691</pattern>
+	<template>
+		<random>
+			<li>$CS691 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS691 _ LENGTH</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 LENGTH</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS691 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS691 GET STRETCH</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS691 _ RUN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS691 RUN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS691 _ RETURN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS691 RETURN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS691 _ COURSE</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS691 COURSE</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ SPAN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 SPAN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ DURATION</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 DURATION</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS691</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS691 _ RUN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS691 RUN</pattern>
+	<template><srai>DURATION 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 691</pattern>
+	<template>
+		<random>
+			<li>$CS691 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS691 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ URL</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 URL</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS691</pattern>
+	<template><srai>HOMEPAGE 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 691</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://moodle.iitb.ac.in/course for more information on CS691</li>
+			<li>$Please visit http://moodle.iitb.ac.in/course for more information on R , D Project I</li>
+			<li>$The course page is http://moodle.iitb.ac.in/course. </li>
+			<li>$Course Website is http://moodle.iitb.ac.in/course. </li>
+			<li>$http://moodle.iitb.ac.in/course. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 PREREQ</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>CS691 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS691</pattern>
+	<template><srai>PREREQUISITES 691</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 691</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS691</li>
+			<li>$You should have completed N/A to register for R , D Project I</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

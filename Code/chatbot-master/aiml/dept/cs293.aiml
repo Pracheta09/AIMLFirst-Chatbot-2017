@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS293</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS293 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS293 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TEACH</pattern>
+	<template><srai>INSTRUCTOR 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 293</pattern>
+	<template>
+		<random>
+			<li>$Professor A. A. Diwan is teaching CS293. </li>
+			<li>$Professor A. A. Diwan will be teaching CS293. </li>
+			<li>$Instructor of CS293 is Professor A. A. Diwan. </li>
+			<li>$CS293 is running under instruction of Professor A. A. Diwan. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS293 _ WORTH</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS293 WORTH</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS293 _ CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS293 CREDITS</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS293</pattern>
+	<template><srai>CREDITS 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 293</pattern>
+	<template>
+		<random>
+			<li>$CS 293 is worth 3 credits. </li>
+			<li>$CS 293 is of 3 credits. </li>
+			<li>$3 credits are awarded on successful completion of CS293. </li>
+			<li>$3 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 SCOPE</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 SURVEY</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 OUTLINE</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS293</pattern>
+	<template><srai>SYLLABUS 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 293</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS293 is Implementation of, and experiments with, basic data structures and use in dynamic operations on data for different algorithms and problem domains; comparison of asymptotic complexity with real behaviour of algorithms; project.. </li>
+			<li>$Implementation of, and experiments with, basic data structures and use in dynamic operations on data for different algorithms and problem domains; comparison of asymptotic complexity with real behaviour of algorithms; project. is taught in CS293. </li>
+			<li>$Prof. A. A. Diwan will teach Implementation of, and experiments with, basic data structures and use in dynamic operations on data for different algorithms and problem domains; comparison of asymptotic complexity with real behaviour of algorithms; project. in CS293. </li>
+			<li>$Implementation of, and experiments with, basic data structures and use in dynamic operations on data for different algorithms and problem domains; comparison of asymptotic complexity with real behaviour of algorithms; project.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS293 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 COURSE NAME</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS293 _ TITLE</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS293 TITLE</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TITLE</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TITLE</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ NAME</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 NAME</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS293 _ NAME</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS293 NAME</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 COURSE TITLE</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS293</pattern>
+	<template><srai>TITLE 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 293</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS293 is Data Structures Lab. </li>
+			<li>$The course title of CS293 is Data Structures Lab. </li>
+			<li>$Course code CS293 is Data Structures Lab. </li>
+			<li>$CS293 is Data Structures Lab. </li>
+			<li>$Data Structures Lab. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS293</pattern>
+	<template><srai>STUDENTSTRENGTH 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 293</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS293. </li>
+			<li>$There are 0 students in Data Structures Lab. </li>
+			<li>$0 students are enrolled in CS293. </li>
+			<li>$0 students are enrolled in Data Structures Lab. </li>
+			<li>$0 students have signed up for CS293. </li>
+			<li>$0 students have signed up for Data Structures Lab. </li>
+			<li>$The student strength of CS293 is 0. </li>
+			<li>$The student strength of Data Structures Lab is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS293 _ VENUE</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 VENUE</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 CLASS RETURN</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TIME SLOT</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ RETURN</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 RETURN</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS293 _ CLASS</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS293 CLASS</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS293 _ LECTURE</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS293 LECTURE</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS293 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS293 CLASS RETURN</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS293</pattern>
+	<template><srai>VENUE 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 293</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS293. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS293. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS293. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS293. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS293. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS293. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS293. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS293. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_AP 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 293</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS293, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS293, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS293, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS293</pattern>
+	<template><srai>GRADE_AA 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 293</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS293, 2014. </li>
+			<li>$AA grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got AA grade in CS293, 2014. </li>
+			<li>$0 students got AA grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AB _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS293</pattern>
+	<template><srai>GRADE_AB 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 293</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS293, 2014. </li>
+			<li>$AB grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got AB grade in CS293, 2014. </li>
+			<li>$0 students got AB grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS293</pattern>
+	<template><srai>GRADE_BB 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 293</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS293, 2014. </li>
+			<li>$BB grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got BB grade in CS293, 2014. </li>
+			<li>$0 students got BB grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS293</pattern>
+	<template><srai>GRADE_BC 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 293</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS293, 2014. </li>
+			<li>$BC grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got BC grade in CS293, 2014. </li>
+			<li>$0 students got BC grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CC _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS293</pattern>
+	<template><srai>GRADE_CC 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 293</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS293, 2014. </li>
+			<li>$CC grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got CC grade in CS293, 2014. </li>
+			<li>$0 students got CC grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS293</pattern>
+	<template><srai>GRADE_CD 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 293</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS293, 2014. </li>
+			<li>$CD grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got CD grade in CS293, 2014. </li>
+			<li>$0 students got CD grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS293</pattern>
+	<template><srai>GRADE_DD 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 293</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS293, 2014. </li>
+			<li>$DD grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got DD grade in CS293, 2014. </li>
+			<li>$0 students got DD grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS293</pattern>
+	<template><srai>GRADE_DX 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 293</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS293, 2014. </li>
+			<li>$DX grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got DX grade in CS293, 2014. </li>
+			<li>$0 students got DX grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS293</pattern>
+	<template><srai>GRADE_FR 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 293</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS293, 2014. </li>
+			<li>$FR grade was given to 0 students in Data Structures Lab, 2014. </li>
+			<li>$0 students got FR grade in CS293, 2014. </li>
+			<li>$0 students got FR grade in Data Structures Lab, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS293, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Data Structures Lab, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS293</pattern>
+	<template><srai>GRADES 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 293</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS293, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Data Structures Lab, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ BOOK</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 BOOK</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS293</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ MENTION</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 MENTION</pattern>
+	<template><srai>REFERENCES 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 293</pattern>
+	<template>
+		<random>
+			<li>$The references are Kathleen Jensen, Niklaus Wirth and A. Mickel, Pascal User Manual and Report: Iso Pascal Standard, Springer Verlag, 4th Edition, October 1991, Bruno R. Preiss, Data Structures and Algorithms with Object-Oriented Design Patterns in C++, Wiley , Sons (Asia), 2001, Sartaj Sahni, Data Structures, Algorithms, and Applications in C++, WCB McGraw-Hill, International Edition, 1998, Michael Goodrich and Roberto Tamassia, Data Structures and Algorithms in Java, Second Edition, Wiley , Sons (Asia), 2001 for CS293. </li>
+			<li>$The references are Kathleen Jensen, Niklaus Wirth and A. Mickel, Pascal User Manual and Report: Iso Pascal Standard, Springer Verlag, 4th Edition, October 1991, Bruno R. Preiss, Data Structures and Algorithms with Object-Oriented Design Patterns in C++, Wiley , Sons (Asia), 2001, Sartaj Sahni, Data Structures, Algorithms, and Applications in C++, WCB McGraw-Hill, International Edition, 1998, Michael Goodrich and Roberto Tamassia, Data Structures and Algorithms in Java, Second Edition, Wiley , Sons (Asia), 2001 for Data Structures Lab. </li>
+			<li>$References according to Professor A. A. Diwan are Kathleen Jensen, Niklaus Wirth and A. Mickel, Pascal User Manual and Report: Iso Pascal Standard, Springer Verlag, 4th Edition, October 1991, Bruno R. Preiss, Data Structures and Algorithms with Object-Oriented Design Patterns in C++, Wiley , Sons (Asia), 2001, Sartaj Sahni, Data Structures, Algorithms, and Applications in C++, WCB McGraw-Hill, International Edition, 1998, Michael Goodrich and Roberto Tamassia, Data Structures and Algorithms in Java, Second Edition, Wiley , Sons (Asia), 2001 for CS293. </li>
+			<li>$Kathleen Jensen, Niklaus Wirth and A. Mickel, Pascal User Manual and Report: Iso Pascal Standard, Springer Verlag, 4th Edition, October 1991, Bruno R. Preiss, Data Structures and Algorithms with Object-Oriented Design Patterns in C++, Wiley , Sons (Asia), 2001, Sartaj Sahni, Data Structures, Algorithms, and Applications in C++, WCB McGraw-Hill, International Edition, 1998, Michael Goodrich and Roberto Tamassia, Data Structures and Algorithms in Java, Second Edition, Wiley , Sons (Asia), 2001. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS293</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS293</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS293</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS293</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS293 _ COURSE</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS293 COURSE</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 THEORY LAB</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 LAB THEORY</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TYPE</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TYPE</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS293</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS293</pattern>
+	<template><srai>TYPE 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 293</pattern>
+	<template>
+		<random>
+			<li>$CS293 is a Lab course. </li>
+			<li>$It's a Lab course . </li>
+			<li>$Lab. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS293 _ COURSE</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS293 COURSE</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS293 _ RETURN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS293 RETURN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS293 _ RUN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS293 RUN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ SPAN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 SPAN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS293</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS293 _ RUN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS293 RUN</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ DURATION</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 DURATION</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS293 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS293 GET STRETCH</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ LENGTH</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 LENGTH</pattern>
+	<template><srai>DURATION 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 293</pattern>
+	<template>
+		<random>
+			<li>$CS293 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS293 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS293</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ URL</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 URL</pattern>
+	<template><srai>HOMEPAGE 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 293</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://moodle.iitb.ac.in/course for more information on CS293</li>
+			<li>$Please visit http://moodle.iitb.ac.in/course for more information on Data Structures Lab</li>
+			<li>$The course page is http://moodle.iitb.ac.in/course. </li>
+			<li>$Course Website is http://moodle.iitb.ac.in/course. </li>
+			<li>$http://moodle.iitb.ac.in/course. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS293</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<category>
+	<pattern>CS293 PREREQ</pattern>
+	<template><srai>PREREQUISITES 293</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 293</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS293</li>
+			<li>$You should have completed N/A to register for Data Structures Lab</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

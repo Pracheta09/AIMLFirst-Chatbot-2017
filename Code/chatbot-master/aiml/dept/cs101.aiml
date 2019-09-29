@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>CS101 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS101 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS101 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TEACH</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS101</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 101</pattern>
+	<template>
+		<random>
+			<li>$Professor Varsh Apte is teaching CS101. </li>
+			<li>$Professor Varsh Apte will be teaching CS101. </li>
+			<li>$Instructor of CS101 is Professor Varsh Apte. </li>
+			<li>$CS101 is running under instruction of Professor Varsh Apte. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS101 _ CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS101 CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS101</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS101 _ WORTH</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS101 WORTH</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 101</pattern>
+	<template>
+		<random>
+			<li>$CS 101 is worth 6 credits. </li>
+			<li>$CS 101 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS101. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 SURVEY</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 SCOPE</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS101</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 OUTLINE</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 101</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS101 is This course provides an introduction to problem solving with computers using a modern language such as Java or C/C++. Topics covered will include :, * Utilization : Developer fundamentals such as editor, integrated programming environment, Unix shell, modules, libraries., * Programming features : Machine representation, primitive types,arrays and records, objects, expressions, control statements, iteration,procedures, functions, and basic i/o., * Applications : Sample problems in engineering, science, text processing, and numerical methods.. </li>
+			<li>$This course provides an introduction to problem solving with computers using a modern language such as Java or C/C++. Topics covered will include :, * Utilization : Developer fundamentals such as editor, integrated programming environment, Unix shell, modules, libraries., * Programming features : Machine representation, primitive types,arrays and records, objects, expressions, control statements, iteration,procedures, functions, and basic i/o., * Applications : Sample problems in engineering, science, text processing, and numerical methods. is taught in CS101. </li>
+			<li>$Prof. Varsh Apte will teach This course provides an introduction to problem solving with computers using a modern language such as Java or C/C++. Topics covered will include :, * Utilization : Developer fundamentals such as editor, integrated programming environment, Unix shell, modules, libraries., * Programming features : Machine representation, primitive types,arrays and records, objects, expressions, control statements, iteration,procedures, functions, and basic i/o., * Applications : Sample problems in engineering, science, text processing, and numerical methods. in CS101. </li>
+			<li>$This course provides an introduction to problem solving with computers using a modern language such as Java or C/C++. Topics covered will include :, * Utilization : Developer fundamentals such as editor, integrated programming environment, Unix shell, modules, libraries., * Programming features : Machine representation, primitive types,arrays and records, objects, expressions, control statements, iteration,procedures, functions, and basic i/o., * Applications : Sample problems in engineering, science, text processing, and numerical methods.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS101 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 COURSE NAME</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ NAME</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 NAME</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TITLE</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TITLE</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS101 _ TITLE</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS101 TITLE</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 COURSE TITLE</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS101</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS101 _ NAME</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS101 NAME</pattern>
+	<template><srai>TITLE 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 101</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS101 is Computer Programming and Utilization. </li>
+			<li>$The course title of CS101 is Computer Programming and Utilization. </li>
+			<li>$Course code CS101 is Computer Programming and Utilization. </li>
+			<li>$CS101 is Computer Programming and Utilization. </li>
+			<li>$Computer Programming and Utilization. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS101</pattern>
+	<template><srai>STUDENTSTRENGTH 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 101</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS101. </li>
+			<li>$There are 0 students in Computer Programming and Utilization. </li>
+			<li>$0 students are enrolled in CS101. </li>
+			<li>$0 students are enrolled in Computer Programming and Utilization. </li>
+			<li>$0 students have signed up for CS101. </li>
+			<li>$0 students have signed up for Computer Programming and Utilization. </li>
+			<li>$The student strength of CS101 is 0. </li>
+			<li>$The student strength of Computer Programming and Utilization is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ CS101 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS101 CLASS RETURN</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ VENUE</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 VENUE</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS101 _ LECTURE</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS101 LECTURE</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS101 _ CLASS</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS101 CLASS</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TIME SLOT</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 CLASS RETURN</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ RETURN</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 RETURN</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS101</pattern>
+	<template><srai>VENUE 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 101</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS101. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS101. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS101. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS101. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS101. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS101. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS101. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS101. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS101</pattern>
+	<template><srai>GRADE_AP 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 101</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS101, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS101, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS101, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS101</pattern>
+	<template><srai>GRADE_AA 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 101</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS101, 2014. </li>
+			<li>$AA grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got AA grade in CS101, 2014. </li>
+			<li>$0 students got AA grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS101</pattern>
+	<template><srai>GRADE_AB 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 101</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS101, 2014. </li>
+			<li>$AB grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got AB grade in CS101, 2014. </li>
+			<li>$0 students got AB grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS101</pattern>
+	<template><srai>GRADE_BB 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 101</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS101, 2014. </li>
+			<li>$BB grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got BB grade in CS101, 2014. </li>
+			<li>$0 students got BB grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BC _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS101</pattern>
+	<template><srai>GRADE_BC 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 101</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS101, 2014. </li>
+			<li>$BC grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got BC grade in CS101, 2014. </li>
+			<li>$0 students got BC grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS101</pattern>
+	<template><srai>GRADE_CC 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 101</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS101, 2014. </li>
+			<li>$CC grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got CC grade in CS101, 2014. </li>
+			<li>$0 students got CC grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS101</pattern>
+	<template><srai>GRADE_CD 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 101</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS101, 2014. </li>
+			<li>$CD grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got CD grade in CS101, 2014. </li>
+			<li>$0 students got CD grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS101</pattern>
+	<template><srai>GRADE_DD 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 101</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS101, 2014. </li>
+			<li>$DD grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got DD grade in CS101, 2014. </li>
+			<li>$0 students got DD grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS101</pattern>
+	<template><srai>GRADE_DX 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 101</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS101, 2014. </li>
+			<li>$DX grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got DX grade in CS101, 2014. </li>
+			<li>$0 students got DX grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>FR _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS101</pattern>
+	<template><srai>GRADE_FR 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 101</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS101, 2014. </li>
+			<li>$FR grade was given to 0 students in Computer Programming and Utilization, 2014. </li>
+			<li>$0 students got FR grade in CS101, 2014. </li>
+			<li>$0 students got FR grade in Computer Programming and Utilization, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS101, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Computer Programming and Utilization, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS101</pattern>
+	<template><srai>GRADES 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 101</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS101, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Computer Programming and Utilization, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ BOOK</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 BOOK</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ MENTION</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 MENTION</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS101</pattern>
+	<template><srai>REFERENCES 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 101</pattern>
+	<template>
+		<random>
+			<li>$The references are Textbook, * C++ Program Design: An introduction to Programming and Object-Oriented Design, 3rd Edition, by Cohoon and Davidson, Tata McGraw Hill. 2003. , Other references (Not required reading), * Thinking in C++ 2nd Edition by Bruce Eckel(available online), * G. Dromey, How to Solve It by Computer, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982., * Polya, G., How to Solve _It (2nd ed.), Doubleday and co. (1957)., * Let Us C. Yashwant Kanetkar. Allied Publishers, 1998., * The Java Tutorial, Sun Microsystems. Addison-Wesley, 1999. for CS101. </li>
+			<li>$The references are Textbook, * C++ Program Design: An introduction to Programming and Object-Oriented Design, 3rd Edition, by Cohoon and Davidson, Tata McGraw Hill. 2003. , Other references (Not required reading), * Thinking in C++ 2nd Edition by Bruce Eckel(available online), * G. Dromey, How to Solve It by Computer, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982., * Polya, G., How to Solve _It (2nd ed.), Doubleday and co. (1957)., * Let Us C. Yashwant Kanetkar. Allied Publishers, 1998., * The Java Tutorial, Sun Microsystems. Addison-Wesley, 1999. for Computer Programming and Utilization. </li>
+			<li>$References according to Professor Varsh Apte are Textbook, * C++ Program Design: An introduction to Programming and Object-Oriented Design, 3rd Edition, by Cohoon and Davidson, Tata McGraw Hill. 2003. , Other references (Not required reading), * Thinking in C++ 2nd Edition by Bruce Eckel(available online), * G. Dromey, How to Solve It by Computer, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982., * Polya, G., How to Solve _It (2nd ed.), Doubleday and co. (1957)., * Let Us C. Yashwant Kanetkar. Allied Publishers, 1998., * The Java Tutorial, Sun Microsystems. Addison-Wesley, 1999. for CS101. </li>
+			<li>$Textbook, * C++ Program Design: An introduction to Programming and Object-Oriented Design, 3rd Edition, by Cohoon and Davidson, Tata McGraw Hill. 2003. , Other references (Not required reading), * Thinking in C++ 2nd Edition by Bruce Eckel(available online), * G. Dromey, How to Solve It by Computer, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982., * Polya, G., How to Solve _It (2nd ed.), Doubleday and co. (1957)., * Let Us C. Yashwant Kanetkar. Allied Publishers, 1998., * The Java Tutorial, Sun Microsystems. Addison-Wesley, 1999.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS101</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS101</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS101</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS101</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 THEORY LAB</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TYPE</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TYPE</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS101</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS101</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 LAB THEORY</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS101 _ COURSE</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS101 COURSE</pattern>
+	<template><srai>TYPE 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 101</pattern>
+	<template>
+		<random>
+			<li>$CS101 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS101 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS101 GET STRETCH</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS101 _ RUN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS101 RUN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS101 _ RUN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS101 RUN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ LENGTH</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 LENGTH</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS101</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ DURATION</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 DURATION</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS101 _ COURSE</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS101 COURSE</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS101 _ RETURN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS101 RETURN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ SPAN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 SPAN</pattern>
+	<template><srai>DURATION 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 101</pattern>
+	<template>
+		<random>
+			<li>$CS101 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS101 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ URL</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 URL</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS101</pattern>
+	<template><srai>HOMEPAGE 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 101</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~cs101 for more information on CS101</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~cs101 for more information on Computer Programming and Utilization</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~cs101. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~cs101. </li>
+			<li>$http://www.cse.iitb.ac.in/~cs101. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS101 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 PREREQ</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>CS101 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS101</pattern>
+	<template><srai>PREREQUISITES 101</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 101</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS101</li>
+			<li>$You should have completed N/A to register for Computer Programming and Utilization</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

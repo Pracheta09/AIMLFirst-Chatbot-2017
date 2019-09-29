@@ -1,0 +1,38 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('CS30101.aiml','w')
+
+COURSECODE = "30101"
+PROFESSOR = "Nandakishore Valakunde"
+CREDITS = "3"
+SYLLABUS = ". Identify the mechanisms and strategies of an Operating System in order to solve real
+world problems.
+2. Develop solutions based on Operating system concepts in various contexts.
+3. Automate the administrative tasks by means of modern tools in Operating System.
+4. Examine the functions of a contemporary Operating system with respect to
+convenience, efficiency and the ability to evolve
+5. Engage in a team towards development of a prototype Operating System.
+6. Construct solutions to real world proble"
+TITLE = "Operating System"
+STUDENTSTRENGTH = "70"
+VENUE = "N/A"
+VENUE1 = "N/A"
+TIMESLOT = "N/A"
+REFERENCES = "Text Books
+1. “Operating Systems”, Stalling William, Pearson Education, ISBN: 0-13-031999-6, 4th
+Edition.
+2. “Operating System Concepts”, Silberschatz A., Galvin P., Gagne G., John Wiley and
+Sons, ISBN:9971-51-388-9, 6th Edition.
+Reference Books
+1. “Modern Operating Systems”, Tanenbaum Andrew S., Prentice Hall India, ISBN:81-
+7808-447-3, 2
+nd Edition.
+2. “Unix Concepts and Applications”, Das Sumitabha, Tata McGraw Hill, ISBN: 0-07-
+053475-6, 3
+rd Edition.
+co. (1957)., * Let Us C. Yashwant Kanetkar. Allied Publishers, 1998., * The Java Tutorial, Sun Microsystems. Addison-Wesley, 1999."
+TYPE = "Theory"
+DURATION = "Full Semester"
+HOMEPAGE = "http://www.vit.edu/Computer/images/Syllabus/TY__compa14.PDF"
+PREREQUISITES = "Data Structures and Algorithms, Computer Organization."
+#-----------------------------------------------------------------------------------

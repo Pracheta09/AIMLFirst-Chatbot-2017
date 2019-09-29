@@ -1,0 +1,40 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('CS30105.aiml','w')
+
+COURSECODE = "30105"
+PROFESSOR = "Shubhada Deshmukh"
+CREDITS = "3"
+SYLLABUS = "1. Describe various automata theoretic models for recognizing formal languages.
+2. Comprehend general purpose powers and computability issues related to state
+machines and grammars.
+Discriminate the expressive powers of various automata theoretic and formal
+language theoretic models and illustrate significance of non determinism for
+automata theoretic models.
+4. Explain the relevance of Church-Turing thesis, and comprehend the
+theoretical limit of computation (independent of software or hardware used)
+via the concept of undecidability.
+5. To infer the applicability of various automata theoretic models for recognizing
+formal languages
+6. Select appropriate computing theory principles, models for the solution of
+complex computing problems."
+TITLE = "Theory of Computation"
+STUDENTSTRENGTH = "70"
+VENUE = "N/A"
+VENUE1 = "N/A"
+TIMESLOT = "N/A"
+REFERENCES = "Text Books
+1. “Introduction to Automata Theory, Languages and Computation”, Hopcroft J, Motwani
+R, Ullman ,Addison-Wesley, ISBN 81-7808-347-7, Second Edition .
+Reference Books
+1 “Introduction to Theory of Computation”, Michael Sipser, Course Technology, ISBN-10:
+053494728X, Third Edition.
+2 “Introduction to Languages and the Theory of Computation”, J. Martin, Tata McGrawHill,
+ISBN 0-07-049939-x, Third edition, 2003.
+3 “Introduction to Computer Theory”, Cohen D., Wiley Publications, 0-471-51010-6,
+Second Edition. "
+TYPE = "Theory"
+DURATION = "Full Semester"
+HOMEPAGE = "http://www.vit.edu/Computer/images/Syllabus/TY__compa14.PDF"
+PREREQUISITES = "  Data Structures. ."
+#-----------------------------------------------------------------------------------

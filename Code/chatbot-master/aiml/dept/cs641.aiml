@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TEACH</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CS641 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CS641 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CS641</pattern>
+	<template><srai>INSTRUCTOR 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 641</pattern>
+	<template>
+		<random>
+			<li>$Professor Mythili Vutukuru is teaching CS641. </li>
+			<li>$Professor Mythili Vutukuru will be teaching CS641. </li>
+			<li>$Instructor of CS641 is Professor Mythili Vutukuru. </li>
+			<li>$CS641 is running under instruction of Professor Mythili Vutukuru. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS641 _ WORTH</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS641 WORTH</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CS641 _ CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CS641 CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CS641</pattern>
+	<template><srai>CREDITS 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 641</pattern>
+	<template>
+		<random>
+			<li>$CS 641 is worth 6 credits. </li>
+			<li>$CS 641 is of 6 credits. </li>
+			<li>$6 credits are awarded on successful completion of CS641. </li>
+			<li>$6 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 SURVEY</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 OUTLINE</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 SCOPE</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN CS641</pattern>
+	<template><srai>SYLLABUS 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 641</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for CS641 is Internet architecture and the layering abstraction. Application layer: network application architectures and examples. Advanced socket programming.. </li>
+			<li>$Internet architecture and the layering abstraction. Application layer: network application architectures and examples. Advanced socket programming. is taught in CS641. </li>
+			<li>$Prof. Mythili Vutukuru will teach Internet architecture and the layering abstraction. Application layer: network application architectures and examples. Advanced socket programming. in CS641. </li>
+			<li>$Internet architecture and the layering abstraction. Application layer: network application architectures and examples. Advanced socket programming.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CS641 _ NAME</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CS641 NAME</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TITLE</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TITLE</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 COURSE NAME</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 COURSE TITLE</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CS641 _ TITLE</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CS641 TITLE</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ NAME</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 NAME</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CS641</pattern>
+	<template><srai>TITLE 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 641</pattern>
+	<template>
+		<random>
+			<li>$The course name of CS641 is Computer Networks. </li>
+			<li>$The course title of CS641 is Computer Networks. </li>
+			<li>$Course code CS641 is Computer Networks. </li>
+			<li>$CS641 is Computer Networks. </li>
+			<li>$Computer Networks. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS CS641</pattern>
+	<template><srai>STUDENTSTRENGTH 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 641</pattern>
+	<template>
+		<random>
+			<li>$There are 0 students in CS641. </li>
+			<li>$There are 0 students in Computer Networks. </li>
+			<li>$0 students are enrolled in CS641. </li>
+			<li>$0 students are enrolled in Computer Networks. </li>
+			<li>$0 students have signed up for CS641. </li>
+			<li>$0 students have signed up for Computer Networks. </li>
+			<li>$The student strength of CS641 is 0. </li>
+			<li>$The student strength of Computer Networks is 0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS641 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TIME SLOT</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS641 _ LECTURE</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS641 LECTURE</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ VENUE</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 VENUE</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ RETURN</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 RETURN</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ CS641 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME CS641 CLASS RETURN</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 CLASS RETURN</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS641 _ CLASS</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS641 CLASS</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE CS641</pattern>
+	<template><srai>VENUE 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 641</pattern>
+	<template>
+		<random>
+			<li>$The venue is N/A and timeslot is N/A for CS641. </li>
+			<li>$The venue is N/A and timeslot is N/A for CS641. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS641. </li>
+			<li>$The classes are held in N/A and timeslot is N/A for CS641. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS641. </li>
+			<li>$The venue and timeslot are N/A and N/A respectively for CS641. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS641. </li>
+			<li>$The venue is N/A, the timeslot is N/A for CS641. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AP _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>AP CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AP _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AP CLASS CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AP _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AP CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CLASS CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AP _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AP CLASS CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>AP _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<category>
+	<pattern>AP CLASS CS641</pattern>
+	<template><srai>GRADE_AP 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AP 641</pattern>
+	<template>
+		<random>
+			<li>$AP grade for exceptional performance was given to 0 students in CS641, 2014. </li>
+			<li>$AP grade for exceptional performance was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in CS641, 2014. </li>
+			<li>$0 students got AP grade for exceptional performance in Computer Networks, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in CS641, 2014. </li>
+			<li>$Number of students getting AP grade was 0 for exceptional performance in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AA _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>AA CLASS CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AA _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AA CLASS CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AA _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AA CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AA _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AA CLASS CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CLASS CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>AA _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>AA CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CLASS CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AA _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AA CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AA _ CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AA CS641</pattern>
+	<template><srai>GRADE_AA 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AA 641</pattern>
+	<template>
+		<random>
+			<li>$AA grade was given to 0 students in CS641, 2014. </li>
+			<li>$AA grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got AA grade in CS641, 2014. </li>
+			<li>$0 students got AA grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting AA grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AB CLASS CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>AB CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ AB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT AB CLASS CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ AB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET AB CLASS CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CLASS CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>AB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>AB CLASS CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AB _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AB CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ AB _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY AB CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_AB 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_AB 641</pattern>
+	<template>
+		<random>
+			<li>$AB grade was given to 0 students in CS641, 2014. </li>
+			<li>$AB grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got AB grade in CS641, 2014. </li>
+			<li>$0 students got AB grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting AB grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CLASS CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>BB CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BB _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BB CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BB _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BB CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BB CLASS CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BB CLASS CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CLASS CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>BB _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>BB CLASS CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BB _ CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BB CS641</pattern>
+	<template><srai>GRADE_BB 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BB 641</pattern>
+	<template>
+		<random>
+			<li>$BB grade was given to 0 students in CS641, 2014. </li>
+			<li>$BB grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got BB grade in CS641, 2014. </li>
+			<li>$0 students got BB grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting BB grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>BC CLASS CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ BC _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY BC CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CLASS CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ BC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE BC CLASS CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>BC _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>BC CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ BC _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT BC CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CLASS CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ BC _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET BC CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ BC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE BC CLASS CS641</pattern>
+	<template><srai>GRADE_BC 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_BC 641</pattern>
+	<template>
+		<random>
+			<li>$BC grade was given to 0 students in CS641, 2014. </li>
+			<li>$BC grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got BC grade in CS641, 2014. </li>
+			<li>$0 students got BC grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting BC grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>CC CLASS CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CC CLASS CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CC CLASS CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>CC _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>CC CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CLASS CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CC _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CC CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CC _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CC CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CC _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CC CLASS CS641</pattern>
+	<template><srai>GRADE_CC 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CC 641</pattern>
+	<template>
+		<random>
+			<li>$CC grade was given to 0 students in CS641, 2014. </li>
+			<li>$CC grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got CC grade in CS641, 2014. </li>
+			<li>$0 students got CC grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting CC grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CLASS CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>CD CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ CD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE CD CLASS CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CD _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CD CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>CD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>CD CLASS CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CD CLASS CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ CD _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE CD CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CLASS CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ CD _ CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET CD CS641</pattern>
+	<template><srai>GRADE_CD 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_CD 641</pattern>
+	<template>
+		<random>
+			<li>$CD grade was given to 0 students in CS641, 2014. </li>
+			<li>$CD grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got CD grade in CS641, 2014. </li>
+			<li>$0 students got CD grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting CD grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CLASS CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>DD CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CLASS CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DD _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DD CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DD CLASS CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CLASS CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DD _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DD CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>DD _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>DD CLASS CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DD _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DD CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DD _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DD CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_DD 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DD 641</pattern>
+	<template>
+		<random>
+			<li>$DD grade was given to 0 students in CS641, 2014. </li>
+			<li>$DD grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got DD grade in CS641, 2014. </li>
+			<li>$0 students got DD grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting DD grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ DX _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT DX CLASS CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CLASS CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>DX CLASS CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ DX _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE DX CLASS CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ DX _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE DX CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DX _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DX CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CLASS CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ DX _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET DX CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>DX _ CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<category>
+	<pattern>DX CS641</pattern>
+	<template><srai>GRADE_DX 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_DX 641</pattern>
+	<template>
+		<random>
+			<li>$DX grade was given to 0 students in CS641, 2014. </li>
+			<li>$DX grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got DX grade in CS641, 2014. </li>
+			<li>$0 students got DX grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting DX grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ FR _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE FR CLASS CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ FR _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT FR CLASS CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>FR CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ FR _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY FR CLASS GIVE CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CLASS CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>FR _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>FR CLASS CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CLASS _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CLASS CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ FR _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE FR CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ FR _ CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET FR CS641</pattern>
+	<template><srai>GRADE_FR 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_FR 641</pattern>
+	<template>
+		<random>
+			<li>$FR grade was given to 0 students in CS641, 2014. </li>
+			<li>$FR grade was given to 0 students in Computer Networks, 2014. </li>
+			<li>$0 students got FR grade in CS641, 2014. </li>
+			<li>$0 students got FR grade in Computer Networks, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in CS641, 2014. </li>
+			<li>$Number of students getting FR grade was 0 in Computer Networks, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP CS641</pattern>
+	<template><srai>GRADES 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 641</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for CS641, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$The grading statistics for Computer Networks, 2014 are:- [AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+			<li>$[AP:0], [AA:0], [AB:0], [BB:0], [BC:0], [CC:0], [CD:0], [DD:0], [DX:0], [FR:0]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>READ _ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>READ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ MENTION</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 MENTION</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ BOOK</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 BOOK</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL CS641</pattern>
+	<template><srai>REFERENCES 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 641</pattern>
+	<template>
+		<random>
+			<li>$The references are James Kurose and Keith Ross, Computer Networking, A Top-Down Approach, Pearson, 5th Edition, 2012., Larry Peterson and Bruce Davie, Computer Networks, A Systems Approach, Morgan Kauffman, 2011., W. Richard Stevens, Unix Network Programming, Eastern Economy Edition, PHI, 1992. for CS641. </li>
+			<li>$The references are James Kurose and Keith Ross, Computer Networking, A Top-Down Approach, Pearson, 5th Edition, 2012., Larry Peterson and Bruce Davie, Computer Networks, A Systems Approach, Morgan Kauffman, 2011., W. Richard Stevens, Unix Network Programming, Eastern Economy Edition, PHI, 1992. for Computer Networks. </li>
+			<li>$References according to Professor Mythili Vutukuru are James Kurose and Keith Ross, Computer Networking, A Top-Down Approach, Pearson, 5th Edition, 2012., Larry Peterson and Bruce Davie, Computer Networks, A Systems Approach, Morgan Kauffman, 2011., W. Richard Stevens, Unix Network Programming, Eastern Economy Edition, PHI, 1992. for CS641. </li>
+			<li>$James Kurose and Keith Ross, Computer Networking, A Top-Down Approach, Pearson, 5th Edition, 2012., Larry Peterson and Bruce Davie, Computer Networks, A Systems Approach, Morgan Kauffman, 2011., W. Richard Stevens, Unix Network Programming, Eastern Economy Edition, PHI, 1992.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS641 _ COURSE</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS641 COURSE</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TYPE</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TYPE</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ CS641</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY CS641</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ CS641</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB CS641</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 LAB THEORY</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ CS641</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE CS641</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 THEORY LAB</pattern>
+	<template><srai>TYPE 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 641</pattern>
+	<template>
+		<random>
+			<li>$CS641 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ CS641 _ RETURN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER CS641 RETURN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ LENGTH</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 LENGTH</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS641 _ COURSE</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS641 COURSE</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ CS641 _ RUN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS CS641 RUN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ DURATION</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 DURATION</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS641 _ RUN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS641 RUN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ CS641 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER CS641 GET STRETCH</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ SPAN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 SPAN</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH CS641</pattern>
+	<template><srai>DURATION 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 641</pattern>
+	<template>
+		<random>
+			<li>$CS641 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$CS641 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CS641 _ URL</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 URL</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS641</pattern>
+	<template><srai>HOMEPAGE 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 641</pattern>
+	<template>
+		<random>
+			<li>$Please visit http://www.cse.iitb.ac.in/~cs641/ for more information on CS641</li>
+			<li>$Please visit http://www.cse.iitb.ac.in/~cs641/ for more information on Computer Networks</li>
+			<li>$The course page is http://www.cse.iitb.ac.in/~cs641/. </li>
+			<li>$Course Website is http://www.cse.iitb.ac.in/~cs641/. </li>
+			<li>$http://www.cse.iitb.ac.in/~cs641/. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 PREREQ</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH CS641</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<category>
+	<pattern>CS641 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 641</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 641</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: N/A</li>
+			<li>$You should have completed N/A to register for CS641</li>
+			<li>$You should have completed N/A to register for Computer Networks</li>
+			<li>$N/A. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>
